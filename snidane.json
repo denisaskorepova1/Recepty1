@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nazev": "Proteinová křupavá čoko miska",
+    "kategorie": "Snídaně",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2025/03/IMG_9506-1-1-web.jpg",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Rýžové chlebíčky", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Hořká čokoláda", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "1. V misce smícháme vločky, chia semínka, protein a kakao. Zalijeme mlékem a promícháme.\n2. Jogurt smícháme se sladidlem a navsrtvíme na připravnou směs.\n3. Čokoládu rozpustíme ve vodní lázni, vmícháme do ní nalámaný rýžový chlebíček a zalijeme tím misku."
+  }
+]
