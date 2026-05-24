@@ -1,0 +1,822 @@
+[
+  {
+    "id": 1,
+    "nazev": "Cizrnový falafel",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Cizrna z konzervy", "mnozstvi": 140, "jednotka": "g"},
+      {"nazev": "Citronová šťáva", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Troubu si předehřejeme na 190°, připravíme plech s pečícím papírem.\n2. Všechny ingredience smícháme do hladka spolu s: petrželí, sezamovými semínky, česnek, sůl, pepř. Vytvarujeme kuličky.\n3. Pečeme 20-25 minut na 190°."
+  },
+  {
+    "id": 2,
+    "nazev": "Arašídové kuřecí řízky",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"}
+    ],
+    "postup": "Troubu si předehřejeme na 180°. V misce smícháme arašídové máslo, česnek, mletý kmín, uzenou papriku, sůl a pepř and vejce. Ve směsi obalíme maso a dáme na plech. Pečeme cca 25-35 minut na 180°."
+  },
+  {
+    "id": 3,
+    "nazev": "Batátový falafel",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Quinoa", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Cizrna", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 0.25, "jednotka": "kus"},
+      {"nazev": "Batáty", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 50, "jednotka": "g"}
+    ],
+    "postup": "Batátu oloupeme, nakrájíme na menší kostky. Dáme na plech and pečeme. Poté rozmixujeme do pyré. Troubu předehřejeme na 170°. Quinou uvaříme, scedíme cizrnu a dáme společně se vším ostatním a petrželí, koriandrem, solí a pepřem do mixéru. Rozmixujeme, smícháme s quinoou. Pečeme v troubě na 170° cca 25 minut."
+  },
+  {
+    "id": 4,
+    "nazev": "Celozrnný knedlík",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Celozrnný rohlík", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 100, "jednotka": "g"}
+    ],
+    "postup": "1-2 dny starý rohlík nakrájíme na menší kousky. Přidáme k němu mouku, sůl, pažitku. Promícháme. Přidáme žloutek, teplé mléko a promícháme. Z bílku vyšleháme tuhý sníh a pomalu ho zamícháme do směsi. Hrnky na čaj vymažeme olejem a naplníme cca 2 cm pod okraj. Dáme do hrnce a zalijeme horkou vodou zhruba do poloviny hrnku. Hrnec zakryjeme utěrkou a následně i pokličkou. Dáme na plotnu a necháme 20 minut vařit od doby, kdy voda dosáhne doby varu."
+  },
+  {
+    "id": 5,
+    "nazev": "Rýžové nudle s kuřecím masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Rýžové nudle", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Paprika", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Uvaříme rýžové nudle podle návodu, scedíme a propláchneme. Nakrájíme maso na nudličky a v misce smícháme s polovinou sójové omáčky. Papriku, mrkev, případně další zeleninu nakrájíme na nudličky. Rozehřejeme olej. Na středním plameni orestujeme maso, přidáme zeleninu a restujeme dalších 5 minut, dokud zelenina nezmezne. Přimícháme uvařené nudle, zalijeme zbytkem sójovky a krátce protřepeme. Posypeme koriandrem, sezamovými semínky."
+  },
+  {
+    "id": 6,
+    "nazev": "Kuřecí kapsy s balkánem, bylinkami a rajčaty",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Bazalka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Rozmarýn", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Sušená rajčata", "mnozstvi": 2, "jednotka": "kus"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Balkánský sýr", "mnozstvi": 25, "jednotka": "g"}
+    ],
+    "postup": "V misce promícháme bylinky a sušená rajčata. Přidáme sýr. Do masa nařízneme kapsu. Naplníme směsí, sepneme párátkem. Maso osolíme, opepříme a poprášíme moukou. Na oleji opečeme z obou stran dozlatova. Pekáček vymažeme olejem, dáme do trouby na 180°. Pečeme 35-40 minut."
+  },
+  {
+    "id": 7,
+    "nazev": "Palačinky s marmeládou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 200, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"}
+    ],
+    "postup": "Ingredience vymícháme a smažíme."
+  },
+  {
+    "id": 8,
+    "nazev": "Nové brambory s bylinkovým máslem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Brambory", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Pažitka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Rozmarýn", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "Uvaříme brambory, do kastrolu dáme máslo a přidáme bylinky. Smícháme dohromady, dosolíme, dopepříme."
+  },
+  {
+    "id": 9,
+    "nazev": "Creamy garlic chicken",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Hladká mouka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Hovězí bujon", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "Připravíme nejdříve maso – do stejné pánve rozpustíme máslo, zasypeme moukou. Přidáme maso, bujon a koření. Vlijeme smetanu. Vaříme, přidáme parmezán a necháme rozpustit."
+  },
+  {
+    "id": 10,
+    "nazev": "Krůtí kuličky se sýrem a lehkou česnekovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Krůtí mleté", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Eidam", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Jarní cibulku nakrájíme a smícháme vse dohromady spolu se solí, pepřem a italskými bylinkami. Uděláme kuličky a opečeme dozlatova."
+  },
+  {
+    "id": 11,
+    "nazev": "Chow mein nudle s masem a zeleninou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí maso", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Paprika", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Koření na čínu", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Nudle", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Pad thai omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Rýžový ocet", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Sriracha", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Škrob", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Maso nakrájíme, koření na čínu, olej dáme stranou. Papriku a cibuli na nudličky + mrkev. Na oleji orestujeme maso, zeleninu, přidáme nudle a zalijeme zálivkou z sójovky, pad thai omáčky, rýžového octa, srirachy a škrobu."
+  },
+  {
+    "id": 12,
+    "nazev": "Vepřová panenka se švestkovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Vepřová panenka", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Anglická slanina", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 1, "jednotka": "Lžíce"},
+      {"nazev": "Povidla", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Hovězí vývar", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "Panenku opláchneme, obalíme v plátcích slaniny. Dáme péct brambory na 180°, když se pečou 20 minut, přidáme panenku. Pečeme dalších 20 minut. Na másle orestujeme šalotku, přidáme povidla, skořici, vývar, sůl, pepř. Vaříme na mírném ohni cca 10 minut."
+  },
+  {
+    "id": 13,
+    "nazev": "Vepřové na kmíně",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Vepřová plec", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Kmín", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hladká mouka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Maso nakrájíme na kostky, osolíme, opepříme. Cibuli nakrájíme nadrobno a spolu s masem na rozpáleném oleji nebo sádle dohněda. Kmín přidáme k masu. Necháme chvíli restovat, nakonec zaprášíme hladkou moukou a osmahneme. Podlijeme vodou cca do poloviny výšky masa a dusíme cca 30 minut doměkka."
+  },
+  {
+    "id": 14,
+    "nazev": "Rychlá hovězí směs s paprikami",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Hovězí svíčková", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Červená cibule", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Paprika", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Čerstvý zázvor", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Česnek", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hovězí vývar", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Sójová omáčka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Ocet", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Škrob", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Maso nakrájíme na nudličky, osolíme, opepříme. Na oleji osmahneme a vyndáme. Přidáme na olej cibuli, papriku, smažíme. Přidáme zázvor. V misce smícháme vývar, škrob, sojovku a ocet. Nalijeme k zelenině, přidáme maso a provaříme."
+  },
+  {
+    "id": 15,
+    "nazev": "Jogurtové řízky",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Bílý jogurt", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Vejce", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Česnek", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cornflakes", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Maso naložíme do směsi z jogurtu, vejce a koření. Necháme nejlépe přes noc odležet, obalíme v cornflakes, smažíme / pečeme."
+  },
+  {
+    "id": 16,
+    "nazev": "Vepřová panenka v medovo-vínové omáčce",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Vepřové medailonky", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Máslo", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Mouka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Brambory", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Teriyaki omáčka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Červené víno", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Med", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Kečup", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Cibuli a panenku nakrájíme. Na pánev dáme osolenou a opepřenou panenku spolu s cibulí, orestujeme. Přidáme lžičku másla, zaprášíme moukou, promícháme. Zalijeme červeným vínem, přidáme teriyaki, kečup a necháme zredukovat. Přilijeme 100 ml vody a lžičku medu, promícháme, necháme zredukovat. Uvařenou bramboru nakrájíme, opečeme na pánvi."
+  },
+  {
+    "id": 17,
+    "nazev": "Crispy tofu",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Tofu", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Rýže", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Škrob", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Sojová omáčka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Ocet", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Javorový sirup", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Nakrájíme tofu, obalíme ho ve škrobu se solí. Opečeme do křupava. Na pánvi rozmícháme ostatní ingredience na omáčku spolu s česnekem a vodou, osmažíme spolu s tofu."
+  },
+  {
+    "id": 18,
+    "nazev": "Kuře na česneku",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/75be9407-a584-4c56-9f72-fc3299a84ada?v=1768915044",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Brambory", "mnozstvi": 200, "jednotka": "g"}
+    ],
+    "postup": "Brambory nakrájíme, opečeme. Maso okořeníme (česnek, sůl, pepř), restujeme. Přidáme celý česnek, smetanu a parmezán. Prohřejeme."
+  },
+  {
+    "id": 19,
+    "nazev": "Těstoviny Alfredo",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Žervé", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Kuřecí vývar", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Parmezán", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"}
+    ],
+    "postup": "Orestujeme maso, okořeníme (česnek, pepř, sůl). Podlijeme vývarem, mlékem, žervé, parmezán + koření (česnek, petržel, sůl). Vložíme hotové těstoviny, provaříme."
+  },
+  {
+    "id": 20,
+    "nazev": "Salát s pečenými gnocchi",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Gnocchi", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Ledový salát", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Slanina", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Hořčice", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Gnocchi smícháme se sušeným česnekem, cibulí, postříkáme olejem a dáme do HF na 200° 10-15 minut. Smícháme salát, parmazán, jarní cibulku, opečenou slaninu. Přimícháme gnocchi. Zalijeme zálivkou, do které přidáme sůl, pepř, jogurt, hořčice, česnek, cibule, italské koření."
+  },
+  {
+    "id": 22,
+    "nazev": "Kuřecí paličky s kokosovým mlékem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Mleté kuřecí", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Jarní cibulka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Kokosové mléko", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Kari koření", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Bujon", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Rýžové nudle", "mnozstvi": 60, "jednotka": "g"}
+    ],
+    "postup": "Smícháme maso se vším dohromady (mrkev, jarní cibulka, sójovka, sušený česnek, polovina vejce, pepř, sůl) and uplácáme placky. Zastříkneme pánev olejem, osmahneme z obou stran placičky. Na stejnou pánev dáme kokosové mléko, ostatní věci (bujon, kari, sójová omáčka, česnek sušený, jarní cibulka, koriandr, sůl, pepř) a necháme povařit. Po zhoustnutí vrátíme maso zpět do omáčky."
+  },
+  {
+    "id": 23,
+    "nazev": "Těstoviny s krémovou paprikovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Paprika", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Cherry rajčata", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Cibule červená", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Lučina", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Sušená rajčata", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "Nakrájíme zeleninu – rajčata, papriky, cibuli. Přidáme česnek, olej, tymián, sůl, pepř a promícháme. Pečeme na 180° cca 30 minut. After upečení dáme do mixéru, přidáme bazalku, lučinu a rozmixujeme."
+  },
+  {
+    "id": 24,
+    "nazev": "Hermelín se zkaramelizovanou cibulkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Hermelín", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule červená", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Máslo", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hořčice", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Bageta", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Cibuli na pánvi vysmažíme dozlatova na maisle. Přidáme čerstvé bylinky, cukr a hořčici. Necháme chvíli zkaramelizovat. Hermelín uděláme. Bagetu nakrájíme na plátky, máslo rozpustíme, smícháme with bylinkami a solí. Namažeme na bagetky a opečeme."
+  },
+  {
+    "id": 25,
+    "nazev": "Salát s kuřecím masem a medovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Mix salátů", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Ředkvičky", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Okurka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hladká mouka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Panko strouhanka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Máslo", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Med", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Maso osolíme, opepříme, použijeme koření na kuře. Obalíme v mouce, vejci a panko strouhance. Osmažíme. Do hluboké misky dáme mix salátů, přidáme ředkvičky, okurku. Zakápneme olejem, promícháme. Do rendlíku dáme med, sójovku a česnek. Necháme rozpustit. Přidáme sezam, promícháme."
+  },
+  {
+    "id": 26,
+    "nazev": "Zapečené noky",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Gnocchi", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Slanina", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Rajčata v plechovce", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Protlak", "mnozstvi": 1, "jednotka": "lžíce"},
+      {"nazev": "Lučina", "mnozstvi": 1, "jednotka": "Lžíce"},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Mozzarella", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Cibulku a slaninu nakrájíme, do pánve dáme rozehřát olej, opečeme cibuli a slaninu. Přidáme protlak, česnek. Přidáme rajčata, sůl, pepř, necháme probublat. Přidáme lučinu, bazalku, noky a promícháme. Odstavíme, natrháme mozzarellu, dáme na pár minut zapéct na 220°."
+  },
+  {
+    "id": 27,
+    "nazev": "Tofu kuličky",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Tofu", "mnozstvi": 90, "jednotka": "g"},
+      {"nazev": "Mouka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Strouhanka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Tofu rozdrobíme. Přidáme strouhanku, mouku, sůl, pepř, cibuli, sójovku a zamícháme. Propracujeme v těsto a tvoříme kuličky. Pečeme asi 15 minut na 200°."
+  },
+  {
+    "id": 28,
+    "nazev": "Asijské kuře",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Panko strouhanka", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Čekankový sirup", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Jablečný ocet", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Zázvor", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Škrob", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Maso nakrájíme, namarinujeme v jogurtu, sůl, mletá paprika, sušený česnek. Obalíme v panko strouhance, zastříkneme olejem a pečeme v troubě na 190°. Ingredience na omáčku kromě škrobu (sirup, omáčka, ocet, zázvor) přivedeme k varu, vlijeme škrob a počkáme, dokud nezhoustne."
+  },
+  {
+    "id": 29,
+    "nazev": "Zapečené kuře s rýží",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Cibule červená", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Zelené pesto", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Kuřecí vývar", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cherry rajčata", "mnozstvi": 50, "jednotka": "g"}
+    ],
+    "postup": "Do skleněné formy nasypeme rýži, maso, osolíme, posypeme cibulí, přidáme petrželku, pesto a řecký jogurt. Zalijeme vývarem a mícháme. Pečeme 40 minut na 180°."
+  },
+  {
+    "id": 30,
+    "nazev": "Asijské kuře z jedné misky",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Rýže", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Mražený hrášek", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Kešu", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Sójová omáčka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Kokosové mléko", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Vše smícháme v zapékací misce, přikryjeme alobalem a pečeme v troubě asi 50 minut na 180°."
+  },
+  {
+    "id": 31,
+    "nazev": "Zapečené těstoviny s kuřecím masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Paprika", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Cibule červená", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Rajčata", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Žervé", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mozzarella", "mnozstvi": 40, "jednotka": "g"}
+    ],
+    "postup": "Maso nakrájíme na malé kousky a v zapékací misce ho smícháme s nakrájenou paprikou, cibulí, těstovinami, kořením, rajčaty, vodou a žervé. Zakryjeme alobalem. Pečeme 20 minut na 180°. Odstraníme alobol, posypeme mozzarellou a dáme ještě na 5 minut zapéct."
+  },
+  {
+    "id": 32,
+    "nazev": "Krůtí špízy v jogurtové marinádě",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Krůtí prsa", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "Maso nakrájíme, česnek prolisujeme. Česnek smícháme s jogurtem, mletou sladkou paprikou, olejem, worchesterem, solí a pepřem. Vmícháme kousky masa a necháme marinovat. Cibuli na měsíčky, udělat špízy."
+  },
+  {
+    "id": 33,
+    "nazev": "Rizoto s mletým masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Paprika", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mleté hovězí", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"}
+    ],
+    "postup": "Cibuli a česnek nakrájíme, papriku na malé kostičky. Rozehřejeme olej, orestujeme cibuli a česnek. Přidáme papriku, maso, mletou papriku, sůl a pepř. Restujeme."
+  },
+  {
+    "id": 34,
+    "nazev": "Těstoviny se smetanovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mouka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 60, "jednotka": "ml"},
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Eidam", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "Maso nakrájíme na nudličky, cibuli najemno. Česnek prolisujeme. V pánvi rozehřejeme olej, orestujeme maso, osolíme, opepříme a dáme bokem. Do pánve dáme cibuli a česnek. Zaprášíme moukou, přidáme máslo, restujeme. Přilijeme smetanu a necháme krátce povařit. Osolíme, opepříme. Těstoviny uvaříme. Vše můžeme dát ještě zapéct na 30 minut na 180°."
+  },
+  {
+    "id": 35,
+    "nazev": "Krůtí plátky v omáčce z pečených rajčat",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Krůtí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Rajčata", "mnozstvi": 65, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Kuřecí bujon", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Smetana na vaření", "mnozstvi": 60, "jednotka": "ml"},
+      {"nazev": "Protlak", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "Česnek oloupeme, cibuli a rajčata nakrájíme na menší kousky. V pekáči promícháme s olejem, solí a pepřem. Pečeme 25 minut v troubě na 180°. Rozehřejeme olej, orestujeme maso, sůl, pepř. Upečenou zeleninu rozmixujeme s vývarem a smetanou, protlakem, sladkou mletou paprikou a bylinkami. Přidáme k masu, přivedeme k varu, snížíme teplotu a vaříme cca 20 minut."
+  },
+  {
+    "id": 36,
+    "nazev": "Hovězí kuličky v pikantní omáčce",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Rajčatový protlak", "mnozstvi": 1, "jednotka": "lžíce"},
+      {"nazev": "Mouka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Rajčata v plechovce", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Hovězí bujon", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Mleté hovězí", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"}
+    ],
+    "postup": "Cibuli nakrájíme, česnek prolisujeme. Promícháme s masem, paprikou, kmínem, sójovou omáčkou a vejcem, sůl, pepř. Necháme odpočinout. Vytvoříme kuličky, dáme do zapékací misky. Pečeme 30 minut na 180°. Mezitím nakrájíme cibuli a česnek najemno, rozehřejeme olej a orestujeme. Přidáme protlak, papriku, mouku a restujeme. Vmícháme krájená rajčata, vývar. Vaříme na mírném ohni cca 15 minut. Podáváme s přílohou."
+  },
+  {
+    "id": 37,
+    "nazev": "Krůtí medailonky se smetanovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Slepičí bujon", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hladká mouka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Krůtí maso", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 15, "jednotka": "ml"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"}
+    ],
+    "postup": "Cibuli nakrájíme najemno. Vývar promícháme s moukou. Rozehřejeme olej, orestujeme maso, osolíme, opepříme. Orestujeme cibuli a kmín. Pokud je potřeba, přidáme olej. Vlijeme vývar s moukou a na mírném stupni provaříme cca 10 minut. Vložíme maso, přidáme smetanu, bylinky, sůl, pepř, povaříme."
+  },
+  {
+    "id": 38,
+    "nazev": "Gnocchi s rajčatovou omáčkou a mozzarellou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Gnocchi", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Rajčatové pyré", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Česnek", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Mozzarella", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Orestujeme cibuli. Přidáme pyré, koření. Nasypeme gnocchi a natrháme mozzarellu. Necháme vařit, dokud nebudou gnocchi měkké. Nakonec přidáme do pánve plátky mozzarelly a necháme roztéct."
+  },
+  {
+    "id": 39,
+    "nazev": "Bang bang kuřecí špízy",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Bílý jogurt", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Sweet chilli omáčka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Med", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Maso nakrájíme, zalijeme olejem, okořeníme. V misce smícháme jogurt se sweet chilli omáčkou a srirachou a medem. Polovinu omáčky přendáme do servírovací misky, zbytkem potřeme maso. V HF 200° 13-15 minut."
+  },
+  {
+    "id": 40,
+    "nazev": "Smažená rýže s vejcem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Jarní cibulka", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "Rozklepneme vejce, ta spolu promícháme. Jarní cibulku nakrájíme, připravíme rýži. Rozpálíme olej, dáme do něj rozšlehané vejce, promícháme a přidáme kuřecí maso. Vmícháme rýži, sójovku a mícháme."
+  },
+  {
+    "id": 41,
+    "nazev": "Domácí kuřecí McNuggets",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Mleté kuřecí", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Strouhanka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hladká mouka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Vejce", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Maso smícháme s moukou, kořením (sůl, pepř, paprika mletá, česnek, cibule) a přidáme vejce. Posypeme strouhankou. Vytvoříme nugetky, obalíme ve strouhance a pečeme 20-25 minut na 200°."
+  },
+  {
+    "id": 42,
+    "nazev": "Kuřecí Satay Bowl",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mix salátů", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Červené zelí", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Sweet chilli omáčka", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "Nakrájíme maso, napícháme na špejle, naložení v koření (sušený česnek, sweet chilli, sůl, pepř, jarní cibulka) and dáme do fritézy. Uvaříme rýži, nakrájíme zeleninu, špízy pokapeme sweet chilli a podáváme."
+  },
+  {
+    "id": 43,
+    "nazev": "Těstoviny s kuřecím a rajčatovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rajčatové pyré", "mnozstvi": 125, "jednotka": "g"},
+      {"nazev": "Eidam", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Mozzarella", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "Uvaříme těstoviny, vodu z těstovin necháme stranou. Rozpálíme olej a na ten dáme kuřecí. Restujeme. Přidáme koření (sůl, pepř, česnek) and rajčatové pyré. Povaříme. Přidáme těstoviny, trochu vody a promícháme. Zasypeme strouhaným sýrem, přidáme plátky mozzarelly, přikryjeme pokličkou a necháme asi 2 minuty, dokud se sýr nerozpustí."
+  },
+  {
+    "id": 44,
+    "nazev": "Křupavé tofu na pánvi",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Tofu", "mnozstvi": 90, "jednotka": "g"},
+      {"nazev": "Škrob", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Rybí omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kečup", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Cukr", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Tofu nakrájíme na plátky, obalíme ve škrobu a vejci a ihned smažíme. Do pánve přidáme omáčku a vaříme, dokud nezhoustne. Přidáme tofu, které v omáčce obalíme. Podáváme s rýží."
+  },
+  {
+    "id": 45,
+    "nazev": "Chicken shawarma bowl",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Salát", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Okurka", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Paprika", "mnozstvi": 40, "jednotka": "g"}
+    ],
+    "postup": "Dáme vařit rýži. Maso okořeníme a pokapeme olejem. Necháme marinovat. Rozpálíme pánev, maso opečeme. Až bude maso hotové, dáme orestovat papriky. Servírujeme."
+  },
+  {
+    "id": 46,
+    "nazev": "Kuřecí souvlaki a tzatziki",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Máta", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Kopr", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Česnek", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Okurka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Bílý jogurt", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Kuřecí prsa nakrájíme na kostky a smícháme s kořením. Napícháme na špejle a dáme na 30 minut do lednice. Mátu a kopr nakrájiamo na jemno. Nastrouháme okurku, osolíme a počkáme cca 10 minut, než okurka pustí vodu. Mezitím smícháme kopr, mátu, jogurt, česnek. Z okurky vymačkáme vodu a dáme k ostatním věcem. Špízy opečeme na pánvi/v troubě/v air fryeru."
+  },
+  {
+    "id": 47,
+    "nazev": "Palačinky zapečené s tvarohem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Mouka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 100, "jednotka": "ml"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Tvaroh", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Rozinky", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Žloutek", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Do větší mísy dáme mouky, mléko, máslo, vejce, skořici a vypracujeme těsto. Osmažíme palačinky. Rozehřejeme troubu na 220°. Smícháme tvaroh, vanilkový extrakt, rozinky, žloutek a trochu medu a promícháme. Touto směsí naplníme palačinky a pečeme 12-13 minut."
+  },
+  {
+    "id": 48,
+    "nazev": "Zapékaná kuřecí prsa",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Kuřecí prsa nakrájíme na menší řízky, v misce je smícháme s jogurtem, česnekem, solí, pepřem a necháme marinovat. Následně dáme do zapékací misky vymazané olejem. Nastrouháme parmezán a pečeme 180° cca 30 minut."
+  },
+  {
+    "id": 49,
+    "nazev": "Plněné batáty",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Mleté hovězí", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Batáty", "mnozstvi": 250, "jednotka": "g"},
+      {"nazev": "Rajčata", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Protlak", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Hovězí bujon", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "Batáty propícháme vidličkou a dáme péct do trouby na 180° cca 45 minut. Mezitím okořeníme maso (medvědí česnek, mletá paprika, kmín, sůl, pepř), necháme zesklovatět cibuli, přidáme protlak, maso, koření a restujeme. Poté maso podlijeme vývarem a přidáme nakrájená rajčata. Necháme asi 15 minut dusit. Batáty rozřízneme and naplníme směsí."
+  },
+  {
+    "id": 50,
+    "nazev": "Salát s pečenými gnocchi",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Gnocchi", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Ledový salát", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Plnotučná hořčice", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Okurka", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "Gnocchi si dáme na pečící papír, postříkáme olejem a pečeme na 200° 15 minut. Mezitím osmahneme maso. Do misky dáme salát, nastrouhanou okurku, jogurt, hořčici, koření, maso a noky."
+  },
+  {
+    "id": 51,
+    "nazev": "Masové kuličky ve sweet chilli omáčce",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop-retina/webp/84c7e616-5363-4d14-b76e-bc423d90765d?v=1711982602",
+    "suroviny": [
+      {"nazev": "Hovězí mleté", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Strouhanka", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sweet chilli omáčka", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Červené zelí", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "Smícháme hovězí s cibulí, vejcem, solí, pepřem, česnekem a strouhankou. Vytvarujeme kuličky, opékáme. Když jsou kuličky hotové, přidáme k nim sweet chilli omáčku a trochu sójové omáčky."
+  },
+  {
+    "id": 52,
+    "nazev": "Kuře se smetanovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Brambory", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Slepičí bujon", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hořčice", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "Troubu předehřejeme na 180°. Maso osolíme, opepříme, brambory nakrájíme, osolíme. Dáme spolu s masem do pekáče. Vyšleháme smetanu, vývar, tymián, rozmarýn, olej a hořčici a zalijeme tím brambory s masem. Pečeme 30-40 minut na 180°."
+  },
+  {
+    "id": 53,
+    "nazev": "Špagety s omáčkou ze sušených rajčat",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Špagety", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Sušená rajčata", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Česnek", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Slepičí bujon", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Smetana na vaření", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Parmezán", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Máslo", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "Uvaříme špagety. Rozehřejeme olej, přidáme sušená rajčata a cibuli. Přidáme koření. Přidáme vývar, povaříme. Přilijeme smetanu, sýr a máslo a nakonec přidáme špagety."
+  },
+  {
+    "id": 54,
+    "nazev": "Těstoviny s citronem a parmezánem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Citron", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "Uvaříme těstoviny, osmažíme maso, přidáme sůl, pepř, česnek. Přidáme citronovou šťávu a vaříme. Dáme špenát, uvařené těstoviny a necháme provařit. Zasypeme parmezánem."
+  }
+]
