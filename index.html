@@ -210,20 +210,18 @@
     let vsechnySuroviny = [];
     let aktivniZalozka = "co-mam-doma";
 
-    // Seznam tvých JSON souborů
+    // TADY: Opravená cesta se znaky ./ pro bezpečné stažení z GitHub Pages
     const jsonSoubory = [
-        'hlavni_jidla.json'
+        './hlavni_jidla.json'
     ];
 
-    // Pomocná funkce, která bezpečně připraví klíč pro porovnání (smaže mezery, velká písmena atd.)
     function zjednodusNazev(text) {
         return text.toLowerCase().trim().replace(/ /g, "-");
     }
 
-    // Načtení dat
     async function nactiVsechnyRecepty() {
         try {
-            recepty = []; // Vynulovat při načítání
+            recepty = [];
             for (const soubor of jsonSoubory) {
                 const response = await fetch(soubor);
                 if (response.ok) {
@@ -240,8 +238,9 @@
         }
     }
 
-    // GENERUJEME SPÍŽ
     function generujSeznamSurovin() {
+        if (recepty.length === 0) return;
+        
         vsechnySuroviny = [...new Set(recepty.flatMap(r => r.suroviny.map(s => s.nazev.trim())))].sort((a, b) => a.localeCompare(b, 'cs'));
         
         const spizContainer = document.getElementById("spiz-seznam");
@@ -262,9 +261,10 @@
         });
     }
 
-    // ZÍSKÁNÍ STAVU SPÍŽE
     function ziskejStavSpize() {
         const mojeSpiz = {};
+        if (vsechnySuroviny.length === 0) return mojeSpiz;
+
         vsechnySuroviny.forEach(surovina => {
             const idSuroviny = zjednodusNazev(surovina);
             const elementCheck = document.getElementById(`check-${idSuroviny}`);
@@ -276,11 +276,15 @@
         return mojeSpiz;
     }
 
-    // FILTROVÁNÍ RECEPTŮ
     function aktualizujRecepty() {
         const mojeSpiz = ziskejStavSpize();
         const receptyContainer = document.getElementById("recepty-seznam");
         receptyContainer.innerHTML = "";
+
+        if (recepty.length === 0) {
+            receptyContainer.innerHTML = `<div class="empty-message">Načítám databázi jídel...</div>`;
+            return;
+        }
 
         let filtrovaneRecepty = [];
 
@@ -290,11 +294,8 @@
                 
                 for (const surovina of recept.suroviny) {
                     const idReceptSuroviny = zjednodusNazev(surovina.nazev);
-                    
-                    // Kontrola: Má surovinu zaškrtnutou?
                     if (!(idReceptSuroviny in mojeSpiz)) return false;
                     
-                    // Kontrola množství
                     const mojeMnozstvi = mojeSpiz[idReceptSuroviny];
                     if (mojeMnozstvi !== "") {
                         if (mojeMnozstvi < surovina.mnozstvi) return false;
@@ -316,4 +317,46 @@
             card.className = "recept-card";
             
             const ingList = recept.suroviny
-                .map(s => s.mnozstvi ===
+                .map(s => s.mnozstvi === 0 && s.jednotka === "" ? `<li>${s.nazev}</li>` : `<li>${s.nazev}: <strong>${s.mnozstvi} ${s.jednotka}</strong></li>`)
+                .join("");
+
+            let obrazekHtml = "";
+            if (recept.obrazek && recept.obrazek !== "") {
+                obrazekHtml = `<div class="recept-img-wrapper"><img src="${recept.obrazek}" class="recept-img" alt="${recept.nazev}"></div>`;
+            } else {
+                card.style.gridTemplateColumns = "1fr";
+            }
+
+            const krokyPostupu = recept.postup
+                .split('\n')
+                .map(krok => `<span class="recept-postup-krok">${krok}</span>`)
+                .join("");
+
+            card.innerHTML = `
+                <div class="recept-body">
+                    <div class="recept-header">
+                        <h3>${recept.nazev}</h3>
+                        <span class="recept-tag">${recept.kategorie.trim()}</span>
+                    </div>
+                    <ul class="recept-ingredience">${ingList}</ul>
+                    <div class="recept-postup"><strong>Postup:</strong>${krokyPostupu}</div>
+                </div>
+                ${obrazekHtml}
+            `;
+            receptyContainer.appendChild(card);
+        });
+    }
+
+    function zmenZalozku(novaZalozka, tlacitko) {
+        aktivniZalozka = novaZalozka;
+        document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+        tlacitko.classList.add('active');
+        aktualizujRecepty();
+    }
+
+    // Spustit ihned po načtení stránky
+    window.addEventListener('DOMContentLoaded', nactiVsechnyRecepty);
+</script>
+
+</body>
+</html>
