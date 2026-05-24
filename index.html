@@ -206,20 +206,24 @@
 </div>
 
 <script>
-    // Zde budeme shromažďovat recepty ze všech JSONů
     let recepty = [];
     let vsechnySuroviny = [];
     let aktivniZalozka = "co-mam-doma";
 
-    // Seznam všech tvých plánovaných JSON souborů
+    // Seznam tvých JSON souborů
     const jsonSoubory = [
         'hlavni_jidla.json'
-        // Sem pak připíšeme: 'snidane.json', 'svaciny.json', 'peceni.json' až je vytvoříš
     ];
 
-    // Funkce, která stáhne data ze všech JSON souborů najednou
+    // Pomocná funkce, která bezpečně připraví klíč pro porovnání (smaže mezery, velká písmena atd.)
+    function zjednodusNazev(text) {
+        return text.toLowerCase().trim().replace(/ /g, "-");
+    }
+
+    // Načtení dat
     async function nactiVsechnyRecepty() {
         try {
+            recepty = []; // Vynulovat při načítání
             for (const soubor of jsonSoubory) {
                 const response = await fetch(soubor);
                 if (response.ok) {
@@ -227,8 +231,6 @@
                     recepty = recepty.concat(data);
                 }
             }
-            
-            // Po úspěšném stažení sestavíme seznam surovin a spustíme web
             generujSeznamSurovin();
             aktualizujRecepty();
         } catch (chyba) {
@@ -238,20 +240,20 @@
         }
     }
 
-    // GENERUJEME SPÍŽ PODLE STAŽENÝCH DAT
+    // GENERUJEME SPÍŽ
     function generujSeznamSurovin() {
-        vsechnySuroviny = [...new Set(recepty.flatMap(r => r.suroviny.map(s => s.nazev)))].sort((a, b) => a.localeCompare(b, 'cs'));
+        vsechnySuroviny = [...new Set(recepty.flatMap(r => r.suroviny.map(s => s.nazev.trim())))].sort((a, b) => a.localeCompare(b, 'cs'));
         
         const spizContainer = document.getElementById("spiz-seznam");
         spizContainer.innerHTML = "";
         
         vsechnySuroviny.forEach(surovina => {
-            const idSuroviny = surovina.toLowerCase().trim().replace(/ /g, "-").replace(/[^a-z0-9-]/g, "");
+            const idSuroviny = zjednodusNazev(surovina);
             const row = document.createElement("div");
             row.className = "surovina-row";
             row.innerHTML = `
                 <label>
-                    <input type="checkbox" id="check-${idSuroviny}" data-nazev="${surovina}" onchange="aktualizujRecepty()">
+                    <input type="checkbox" id="check-${idSuroviny}" onchange="aktualizujRecepty()">
                     ${surovina}
                 </label>
                 <input type="number" id="mnozstvi-${idSuroviny}" placeholder="množství" min="0" step="any" oninput="aktualizujRecepty()">
@@ -260,19 +262,21 @@
         });
     }
 
+    // ZÍSKÁNÍ STAVU SPÍŽE
     function ziskejStavSpize() {
         const mojeSpiz = {};
         vsechnySuroviny.forEach(surovina => {
-            const idSuroviny = surovina.toLowerCase().trim().replace(/ /g, "-").replace(/[^a-z0-9-]/g, "");
+            const idSuroviny = zjednodusNazev(surovina);
             const elementCheck = document.getElementById(`check-${idSuroviny}`);
             if (elementCheck && elementCheck.checked) {
                 const hodnota = document.getElementById(`mnozstvi-${idSuroviny}`).value;
-                mojeSpiz[surovina.toLowerCase().trim()] = hodnota === "" ? "" : Number(hodnota);
+                mojeSpiz[idSuroviny] = hodnota === "" ? "" : Number(hodnota);
             }
         });
         return mojeSpiz;
     }
 
+    // FILTROVÁNÍ RECEPTŮ
     function aktualizujRecepty() {
         const mojeSpiz = ziskejStavSpize();
         const receptyContainer = document.getElementById("recepty-seznam");
@@ -283,10 +287,15 @@
         if (aktivniZalozka === "co-mam-doma") {
             filtrovaneRecepty = recepty.filter(recept => {
                 if (!recept.suroviny || recept.suroviny.length === 0) return false;
+                
                 for (const surovina of recept.suroviny) {
-                    const nazevReceptSuroviny = surovina.nazev.toLowerCase().trim();
-                    if (!(nazevReceptSuroviny in mojeSpiz)) return false;
-                    const mojeMnozstvi = mojeSpiz[nazevReceptSuroviny];
+                    const idReceptSuroviny = zjednodusNazev(surovina.nazev);
+                    
+                    // Kontrola: Má surovinu zaškrtnutou?
+                    if (!(idReceptSuroviny in mojeSpiz)) return false;
+                    
+                    // Kontrola množství
+                    const mojeMnozstvi = mojeSpiz[idReceptSuroviny];
                     if (mojeMnozstvi !== "") {
                         if (mojeMnozstvi < surovina.mnozstvi) return false;
                     }
@@ -307,46 +316,4 @@
             card.className = "recept-card";
             
             const ingList = recept.suroviny
-                .map(s => s.mnozstvi === 0 && s.jednotka === "" ? `<li>${s.nazev}</li>` : `<li>${s.nazev}: <strong>${s.mnozstvi} ${s.jednotka}</strong></li>`)
-                .join("");
-
-            let obrazekHtml = "";
-            if (recept.obrazek && recept.obrazek !== "") {
-                obrazekHtml = `<div class="recept-img-wrapper"><img src="${recept.obrazek}" class="recept-img" alt="${recept.nazev}"></div>`;
-            } else {
-                card.style.gridTemplateColumns = "1fr";
-            }
-
-            const krokyPostupu = recept.postup
-                .split('\n')
-                .map(krok => `<span class="recept-postup-krok">${krok}</span>`)
-                .join("");
-
-            card.innerHTML = `
-                <div class="recept-body">
-                    <div class="recept-header">
-                        <h3>${recept.nazev}</h3>
-                        <span class="recept-tag">${recept.kategorie.trim()}</span>
-                    </div>
-                    <ul class="recept-ingredience">${ingList}</ul>
-                    <div class="recept-postup"><strong>Postup:</strong>${krokyPostupu}</div>
-                </div>
-                ${obrazekHtml}
-            `;
-            receptyContainer.appendChild(card);
-        });
-    }
-
-    function zmenZalozku(novaZalozka, tlacitko) {
-        aktivniZalozka = novaZalozka;
-        document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-        tlacitko.classList.add('active');
-        aktualizujRecepty();
-    }
-
-    // Start aplikace - načteme JSONy
-    window.onload = nactiVsechnyRecepty;
-</script>
-
-</body>
-</html>
+                .map(s => s.mnozstvi ===
