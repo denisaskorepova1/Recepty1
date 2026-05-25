@@ -222,5 +222,63 @@
       {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
     ],
     "postup": "1. Vločky, semínka, protein, skořici, sirup, banán a mléko rozmixujeme do hladka.\n2. Polovinu směsi vlijeme do misky na pečení.\n3. Ingredience na čokoládovou vrstvu (kakao, 1 lžička čekankového sirupu, 2 lžičky mléka) smícháme a vlijeme na první polovinu směsi.\n4. Zalijeme zbytkem směsi. Pečeme na 180° cca 20-25 minut."
+  },
+  {
+    "id": 16,
+    "nazev": "Chia jogurtový dezert",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Bílý jogurt", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Lesní ovoce", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Hořká čokoláda", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Jogurt, chia, lesní ovoce, sladidlo smícháme. Zalijeme a dáme do lednice."
+  },
+  {
+    "id": 17,
+    "nazev": "Jablečný dezert 1",
+    "kategorie": "Snídaně",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2024/06/IMG_8186-1-1-web-970x970.jpg",
+    "suroviny": [
+      {"nazev": "Jablko", "mnozstvi": 80 "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 80, "jednotka": "g"}
+    ],
+    "postup": "1. Jablko, vejce a jogurt rozmixujeme do hladka. Dáme odo misky. Pečeme asi 30 minut na 160°."
+  },
+  {
+    "id": 18,
+    "nazev": "Jablečný dezert 2",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/5d61ecda-3981-4695-8466-917d32cb7115?v=1743179464",
+    "suroviny": [
+      {"nazev": "Tvaroh", "mnozstvi": 125, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Jablko", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 12, "jednotka": "g"},
+      {"nazev": "Granola", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Ořechy", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Granolu nadrtíme na dno skleničky.\n2. V misce smícháme tvaroh s proteinem, dáme na granolu.\n3. Jablka nakrájíme na kostičky, povaříme se skořicí, trochou vody a medem. Dáme navrch."
+  },
+  {
+    "id": 19,
+    "nazev": "Zapečená banánová kaše",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/84d93cf1-595c-4580-a668-ba32c0da48a2?v=1746853300",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 40, "jednotka": "ml"},
+      {"nazev": "Čokoláda", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Rozmačkáme banán. Přisypeme vločky, protein, prášek na pečení, chia, skořici a promícháme.\n2. Přilijeme mléko, javorový sirup a promícháme. Nakonec dáme čokoládu. Pečeme 180°° cca 30 minut."
   }
 ]
