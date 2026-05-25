@@ -147,5 +147,80 @@
       {"nazev": "Toustový chléb", "mnozstvi": 75, "jednotka": "g"}
     ],
     "postup": "1. Smícháme med se skořicí a přidáme trochu vody. Touto směsí potřeme toustový chléb, na konec potřeme pouze med, aby to drželo.\n2. Zamotáme do ruličky, nakrájíme na kolečka a dáme do HF na 5-10 minut 180°."
+  },
+  {
+    "id": 11,
+    "nazev": "Lámaná skořicová granola",
+    "kategorie": "Snídaně",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2024/04/IMG_5942-1-1-web-970x970.jpg",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 1, "jednotka": "hrnek"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 2, "jednotka": "lžíce"},
+      {"nazev": "Čekankový sirup", "mnozstvi": 2, "jednotka": "lžíce"},
+      {"nazev": "Skořice", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Banán", "mnozstvi": 1, "jednotka": "kus"}
+    ],
+    "postup": "1. Banán rozmačkáme, přidáme k němu vše ostatní + semínka, ořechy. Rozetřeme na pečící papír a pečeme cca 15 minut na 180°."
+  },
+  {
+    "id": 12
+    "nazev": "Ovesný trhanec",
+    "kategorie": "Snídaně",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2024/06/IMG_8213-1-1-web-970x970.jpg",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 150, "jednotka": "g"}
+    ],
+    "postup": "1. Banán rozmačkáme, smícháme s vejcem, vločkami, proteinem, chia. Opečeme, podáváme s jogurtem."
+  },
+  {
+    "id": 13,
+    "nazev": "Raffaelo miska",
+    "kategorie": "Snídaně",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2025/03/IMG_9808-1-1-web-970x970.jpg",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Mletý kokos", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kokosové mléko", "mnozstvi": 100, "jednotka": "ml"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Bílá čokoláda", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Mandle", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. V misce smícháme vločky, kokos, slazení a mléko.\n2. Na tuto vrstvu dáme 120 g jogurt.\n3. Kostičku čokolády rozpustíme, smícháme se zbývajícím jogurtem. Dáme navrch a posypeme mandlemi a kokosem."
+  },
+  {
+    "id": 14,
+    "nazev": "Chia tiramisu",
+    "kategorie": "Snídaně",
+    "obrazek": "https://assets-eu-01.kc-usercontent.com/b6e22025-d465-0168-dffc-cd032357e4f0/bce4cd47-a376-4926-bc1e-69343e68d5e6/tiramisu_chia_pudink_maruskaveg_influ_unor.jpg?w=734&fm=webp&lossless=0&q=80&dpr=1",
+    "suroviny": [
+      {"nazev": "Chia semínka", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Sladidlo", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháme, posypeme kakaem a dáme do lednice."
+  },
+  {
+    "id": 15,
+    "nazev": "Čokoládové pečené vločky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2025/04/IMG_0048thumb-1-1-web-970x970.jpg",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 45, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Čokoládový protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Čekankový sirup", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Banán", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 75, "jednotka": "g"},
+      {"nazev": "Hořká čokoláda", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Vločky, semínka, protein, skořici, sirup, banán a mléko rozmixujeme do hladka.\n2. Polovinu směsi vlijeme do misky na pečení.\n3. Ingredience na čokoládovou vrstvu (kakao, 1 lžička čekankového sirupu, 2 lžičky mléka) smícháme a vlijeme na první polovinu směsi.\n4. Zalijeme zbytkem směsi. Pečeme na 180° cca 20-25 minut."
   }
 ]
