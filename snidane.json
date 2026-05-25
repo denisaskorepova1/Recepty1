@@ -15,5 +15,137 @@
       {"nazev": "Hořká čokoláda", "mnozstvi": 20, "jednotka": "g"}
     ],
     "postup": "1. V misce smícháme vločky, chia semínka, protein a kakao. Zalijeme mlékem a promícháme.\n2. Jogurt smícháme se sladidlem a navsrtvíme na připravnou směs.\n3. Čokoládu rozpustíme ve vodní lázni, vmícháme do ní nalámaný rýžový chlebíček a zalijeme tím misku."
-  }
+  },
+  {
+    "id": 2,
+    "nazev": "Banánové lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/564ea9e4-0fa8-486f-b44a-7a94360e08a7?v=1769410728",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Kefírové mléko", "mnozstvi": 60, "jednotka": "ml"}
+    ],
+    "postup": "1. Vše smícháme a smažíme."
+  },
+  {
+    "id": 3,
+    "nazev": "Domácí kynuté housky (6 porcí)",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/d971c2fb-a381-4106-b82d-87d0bb6173c2?v=1774684224",
+    "suroviny": [
+      {"nazev": "Hladká mouka", "mnozstvi": 175, "jednotka": "g"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 75, "jednotka": "g"},
+      {"nazev": "Sušené droždí", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. V míse smícháme mouky, držodí, přidáme 180 ml vody a trochu soli.\n2. Prohněteme. Přikryjeme pokličkou, utěrkou a dáme na hodinu do lednice.\3. Těsto znovu prohněteme, vytvarujeme bochánky, přikryjeme a dáme přes noc do lednice.\4. Bochánky potřeme vodou, posypeme libovolnými semínky a pečeme na 190° 30-40 minut."
+  },
+  {
+    "id": 4,
+    "nazev": "Malinové tiramisu",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/a0c7aca0-d397-41d3-9674-2749690e60ed?v=1769724884",
+    "suroviny": [
+      {"nazev": "Špaldové sušenky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Maliny", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Tvaroh", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Čekankový sirup", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Uděláme malinový rozvar.\n2. Nadrtíme sušenky. Tvaroh vymícháme se sladidlem, případně proteinem.\n3. Na dno dáme sušenky, ty zalijeme trochou kávy, pak tvaroh a jahody / maliny."
+  },
+  {
+    "id": 5,
+    "nazev": "Banánový chia pudink",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/4a415402-e4d4-4301-b390-0112a95120ad?v=1771773594",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 1, "jednotka": "lžíce"},
+      {"nazev": "Chia semínka", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 100, "jednotka": "ml"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sladidlo", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Do misky dám půlku banánu, rozmačkáme.\n2. Přidáme lžíci arašídovéo másla, chia, protein, sirup. Zalijeme mlékem."
+  },
+  {
+    "id": 6,
+    "nazev": "Jahodová proteinová smoothie bowl",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/50f0d27f-f769-475f-ab69-c7cead10610b?v=1772696367",
+    "suroviny": [
+      {"nazev": "Mražené jahody", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Jahodové kefírové mléko", "mnozstvi": 100, "jednotka": "ml"},
+      {"nazev": "Javorový sirup", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 50, "jednotka": "g"}
+    ],
+    "postup": "1. Mražené jahody rozmixujeme spolu s kefírem.\n2. V misce smícháme vločky, chia a arašídové máslo.\n3. Spojíme vše dohromady a promícháme."
+  },
+  {
+    "id": 7,
+    "nazev": "Skořicový chlebík",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.laskominyodmaryny.cz/wp-content/uploads/2015/08/Skoricovy_chlebicek_5.jpg",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 250, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kefírové mléko", "mnozstvi": 500, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kus"},
+      {"nazev": "Máslo", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Cukr", "mnozstvi": 70, "jednotka": "g"}
+    ],
+    "postup": "1. Suché ingredience + trochu soli smícháme (kromě skořice a cukru, to smícháme zvlášť), spojíme s mokrými ingrediencemi.\n2. Do formy nalejeme řetinu těsta, posypeme skořicovou směsí, znovu třetinu těsta...\n3. Promícháme špejlí a dáme péct na 25 minut na 160° a pak 15 minut na 180°."
+  },
+  {
+    "id": 8,
+    "nazev": "Ovesný koláč s jablky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://static.toprecepty.cz/fotky/recepty/0058/jablecny-kolac-s-ovesnymi-vlockami-141502-1920-1080-nwo.webp",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Jablko", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "1. Ovesnou mouku smícháme s kypřícím práškem, skořicí a ostatními surovinami.\n2. Můžeme přidat vanilku, cukr, protein...\n3. Vlijeme směs do formy a dáme péct na 35-45 minut na 180°."
+  },
+  {
+    "id": 9,
+    "nazev": "Pohár s jablky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/4bbfcb46-9fa0-44fc-95ed-f1ce46a9aa96?v=1725746822",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Javorový sirup", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 140, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Jablko", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Jablka nakrájíme na kostky a smícháme v hrnci s vodou, javorovým sirupem a špetkou skořice.\n2. Přikryjeme pokličkou a necháme dusit 5-10 min.\n3. Mezitím zalijeme horkou vodou ovesné vločky, smícháme s jogurtem a proteinem. Vrstvíme."
+  },
+  {
+    "id": 10,
+    "nazev": "Cini minnies",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/807b2283-ad4d-4bb4-8984-2d0afa60f776?v=1669146889",
+    "suroviny": [
+      {"nazev": "Med", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Toustový chléb", "mnozstvi": 75, "jednotka": "g"}
+    ],
+    "postup": "1. Smícháme med se skořicí a přidáme trochu vody. Touto směsí potřeme toustový chléb, na konec potřeme pouze med, aby to drželo.\n2. Zamotáme do ruličky, nakrájíme na kolečka a dáme do HF na 5-10 minut 180°."
+  },
 ]
