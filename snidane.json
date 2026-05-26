@@ -19,7 +19,7 @@
   {
     "id": 2,
     "nazev": "Banánové lívance",
-    "kategorie": "Snídaně" "Svačiny",
+    "kategorie": "Snídaně",
     "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/564ea9e4-0fa8-486f-b44a-7a94360e08a7?v=1769410728",
     "suroviny": [
       {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
