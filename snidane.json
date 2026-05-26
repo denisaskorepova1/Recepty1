@@ -366,5 +366,53 @@
       {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"}
     ],
     "postup": "1. Vše smícháme a dáme přes noc do lednice."
+  },
+  {
+    "id": 26,
+    "nazev": "Nadýchané jogurtové vafle (2 porce)",
+    "kategorie": "Snídaně",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-32366052_social-boruvky-mandle-vafle-jogurt?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
+    "suroviny": [
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Máslo", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Mouka", "mnozstvi": 75, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Jogurt", "mnozstvi": 50, "jednotka": "g"}
+    ],
+    "postup": "1. Žloutky oddělíme od bílků. Máslo vyšleháme se žloutky do pěny.\n2. Bílky vyšleháme do sněhu. Promícháme mouku, kypřící prášek, přidáme trochu soli. Přidáme jogurt a vyšlehané máslo se žloutky.\n3. Vmícháme bílky."
+  },
+  {
+    "id": 27,
+    "nazev": "Banánový chlebíček (8 porcí)",
+    "kategorie": "Snídaně",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-29365666_social-banan-boruvky-rybiz-livanec?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Mouka", "mnozstvi": 250, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 300, "jednotka": "ml"},
+      {"nazev": "Máslo", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Banán rozmačkáme spolu s vejci. Přidáme kypřící prášek, mouku, mléko, rozpuštěné máslo, skořici a trochu soli.\n2. Promícháme. Vlijeme do pekáčku a necháme odpočinout.\n3. Posypeme čerstvým ovocem a třeba ořechy. Pečeme 25 minut v troubě na 180°."
+  },
+  {
+    "id": 28,
+    "nazev": "Banoffee pečená kaše",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/393902df-104f-4563-b853-a0cbdeb829a2?v=1744272048",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 35, "jednotka": "ml"},
+      {"nazev": "Hořká čokoláda", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Tvaroh", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Sladidlo", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Banán rozmixujeme spolu s polovinou množství jogurtu a mlékem. Přidáme vločky, protein, kypřící prášek a promícháme. Přimícháme čokoládu\n2. Pečeme na 180° cca 30 minut.\n3. Připravíme si krém navrch ze zbylých ingrediencí, na závěr posypeme kakaem."
   }
 ]
