@@ -414,5 +414,46 @@
       {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
     ],
     "postup": "1. Banán rozmixujeme spolu s polovinou množství jogurtu a mlékem. Přidáme vločky, protein, kypřící prášek a promícháme. Přimícháme čokoládu\n2. Pečeme na 180° cca 30 minut.\n3. Připravíme si krém navrch ze zbylých ingrediencí, na závěr posypeme kakaem."
+  },
+  {
+    "id": 29,
+    "nazev": "Tiramisu chia pudink",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/ff7ac142-8f1d-4ba9-a45e-a4a5149c7af7?v=1743281923",
+    "suroviny": [
+      {"nazev": "Chia semínka", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Vše spolu s kávou a sladidme dáme do skleničky, posypeme kakaem a je to. "
+  },
+  {
+    "id": 30,
+    "nazev": "Zapečený tvaroh s borůvkami",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/57f7f3b5-6ff4-4489-81f2-865e9fcf1fb6?v=1743796551",
+    "suroviny": [
+      {"nazev": "Tvaroh", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Čekankový sirup", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Všechny ingredience smícháme v misce, dáme do trouby, navrch dáme borůvky."
+  },
+  {
+    "id": 31,
+    "nazev": "Zapečené housky se šunkou a sýrem (6 porcí)",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/98eafcce-cfb3-412c-8d93-86d78a109888?v=1736882636",
+    "suroviny": [
+      {"nazev": "Tvaroh měkký", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Hladká mouka", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Šunka", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Mozzarella", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Smícháme vejce a tvaroh, přidáme mouku, semínka, koření a zamícháme.\n2. Tvarujeme buchtičky, posypeme sýrem. Pečeme 5 minut při 200°, pak 15 minut na 180°."
   }
 ]
