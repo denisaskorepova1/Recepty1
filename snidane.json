@@ -280,5 +280,48 @@
       {"nazev": "Čokoláda", "mnozstvi": 0, "jednotka": ""}
     ],
     "postup": "1. Rozmačkáme banán. Přisypeme vločky, protein, prášek na pečení, chia, skořici a promícháme.\n2. Přilijeme mléko, javorový sirup a promícháme. Nakonec dáme čokoládu. Pečeme 180°° cca 30 minut."
+  },
+  {
+    "id": 20,
+    "nazev": "Jogurtová bowl s domácím crumble",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/5a3c332b-3cd2-4dc5-8e38-07b0e4e32aad?v=1750347762",
+    "suroviny": [
+      {"nazev": "Jogurt", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 18, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Kokosový olej", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Čekankový sirup", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Lesní ovoce", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Troubu předehřejeme na 165°C. Na dno pekáčku dáme lesní ovoce a ve vedlejší misce smícháme vločky (polovinu nameleme), skořici, kokosový olej, čekankový sirup.\n2. Směsí zasypeme ovoce a pečeme 15 minut."
+  },
+  {
+    "id": 21,
+    "nazev": "Tvaroháček s lesním ovocem",
+    "kategorie": "Snídaně",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-26203268_social-maliny-boruvky-mata-tvaroh?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
+    "suroviny": [
+      {"nazev": "Lesní ovoce", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Smetana ke šlehání", "mnozstvi": 40, "jednotka": " ml"},
+      {"nazev": "Tvaroh", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Cukr", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "1. Ovoce rozmixujeme. Vymícháme smetanu s cukrem a přimícháme tvaroh."
+  },
+  {
+    "id": 22,
+    "nazev": "Tiramisu ovesná kaše přes noc",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/37dfed41-80c0-4331-ab6b-fa1dec6702b6?v=1716293302",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Tvaroh", "mnozstvi": 35, "jednotka": "g"},
+      {"nazev": "Mascarpone", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Vločky promícháme s tvarohem, mascarpone, kafem, medem a trochou soli. Necháme odpočinout, posypeme kakaem."
   }
 ]
