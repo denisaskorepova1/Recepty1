@@ -455,5 +455,89 @@
       {"nazev": "Mozzarella", "mnozstvi": 0, "jednotka": ""}
     ],
     "postup": "1. Smícháme vejce a tvaroh, přidáme mouku, semínka, koření a zamícháme.\n2. Tvarujeme buchtičky, posypeme sýrem. Pečeme 5 minut při 200°, pak 15 minut na 180°."
+  },
+  {
+    "id": 32,
+    "nazev": "Proteinové palačinky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/199d5df2-b170-41ad-8f9a-337d137f238e?v=1678645754",
+    "suroviny": [
+      {"nazev": "Mléko", "mnozstvi": 100, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháme a smažíme."
+  },
+  {
+    "id": 33,
+    "nazev": "Jablečné lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-26405556_social-jablko-skorice-pyre-livance-mata?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Jablko", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Troubu předehřejeme na 180°.\n2. Banány oloupeme, rozmačkáme, přidáme mouku, kypřící prášek, vejce, jogurt, skořici a promícháme.\n3. Vyskládáme na pečící plech do koleček a pečeme cca 20 minut.\n4. Nakrájíme si jablko na tenké plátky, podusíme s vodou na pánvi, přidáme med a skořici a opékáme."
+  },
+  {
+    "id": 34,
+    "nazev": "Jogurtové lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/joghurt-pfannkuchen.jpg?v=1757690042&width=1000",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 30 "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"}
+    ],
+    "postup": "1. Mixérem vše rozmixujeme a smažíme.12"15
+14  },
+  {
+    "id": 35,
+    "nazev": "Air fryer apples",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.foodbanjo.com/wp-content/uploads/2022/10/air-fryer-cinnamon-apples-2-01a.jpg",
+    "suroviny": [
+      {"nazev": "Jablko", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kokosový olej", "mnozstvi": 0.5, "jednotka": "lžičky"},
+      {"nazev": "Javorový sirup", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Kardamom", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Muškátový oříšek", "mnozstvi": 0, "jednotka": ""}}
+    ],
+    "postup": "1. Jablko nakrájíme na plátky. V misce smícháme ostatní ingredience a jablka v tom obalíme. Dáme do frizéty na 190° cca 8-12 minut."
+  },
+  {
+    "id": 36,
+    "nazev": "Housky z cottage",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/cottage-housky-3.jpeg?v=1644240289",
+    "suroviny": [
+      {"nazev": "Cottage", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Lněné semínka", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Všechny ingredience, kromě semínek, smícháme na těsto.\n2. Vytvoříme housku, potřeme olejem a posypeme semínky.\n3. Pečeme ve fritéze 22 minut při 160°."
+  },
+  {
+    "id": 37,
+    "nazev": "Proteinové banánové palačinky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://gymbeam.cz/blog/wp-content/uploads/fly-images/577869/Navrh-bez-nazvu-2024-06-19T131254.258-437x279.png",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 120, "jednotka": "g"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "vejce"}
+    ],
+    "postup": "1. Banán rozmačkáme, rozmixujeme se žloutkema z zbytkem ingrediencí. Bílky vyšleháme a přidáme dohromady."
   }
 ]
