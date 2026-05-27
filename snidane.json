@@ -497,8 +497,8 @@
       {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
       {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"}
     ],
-    "postup": "1. Mixérem vše rozmixujeme a smažíme.12"15
-14  },
+    "postup": "1. Mixérem vše rozmixujeme a smažíme."
+  },
   {
     "id": 35,
     "nazev": "Air fryer apples",
@@ -509,7 +509,7 @@
       {"nazev": "Kokosový olej", "mnozstvi": 0.5, "jednotka": "lžičky"},
       {"nazev": "Javorový sirup", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Kardamom", "mnozstvi": 0, "jednotka": ""},
-      {"nazev": "Muškátový oříšek", "mnozstvi": 0, "jednotka": ""}}
+      {"nazev": "Muškátový oříšek", "mnozstvi": 0, "jednotka": ""}
     ],
     "postup": "1. Jablko nakrájíme na plátky. V misce smícháme ostatní ingredience a jablka v tom obalíme. Dáme do frizéty na 190° cca 8-12 minut."
   },
@@ -536,7 +536,7 @@
       {"nazev": "Banán", "mnozstvi": 120, "jednotka": "g"},
       {"nazev": "Ovesné vločky", "mnozstvi": 50, "jednotka": "g"},
       {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
-      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "vejce"}
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"}
     ],
     "postup": "1. Banán rozmačkáme, rozmixujeme se žloutkema z zbytkem ingrediencí. Bílky vyšleháme a přidáme dohromady."
   }
