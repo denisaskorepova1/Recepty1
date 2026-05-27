@@ -492,7 +492,7 @@
     "obrazek": "https://mandimu.cz/cdn/shop/articles/joghurt-pfannkuchen.jpg?v=1757690042&width=1000",
     "suroviny": [
       {"nazev": "Ovesné vločky", "mnozstvi": 30, "jednotka": "g"},
-      {"nazev": "Bílý jogurt", "mnozstvi": 30 "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 30, "jednotka": "g"},
       {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
       {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
       {"nazev": "Banán", "mnozstvi": 0.5, "jednotka": "kus"}
