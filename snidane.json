@@ -539,5 +539,145 @@
       {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"}
     ],
     "postup": "1. Banán rozmačkáme, rozmixujeme se žloutkema z zbytkem ingrediencí. Bílky vyšleháme a přidáme dohromady."
+  },
+  {
+    "id": 38,
+    "nazev": "Ovesné palačinky (2 porce)",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/910/snidanove-ovesne-palacinky-s-lahodnou-naplni-cs-g9Np5.jpg",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 250, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 140, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "1. Smícháme rozemleté vločky, mléko a vejce, přidáme trošku soli a vymícháme těsto. Smažíme. Naplníme náplní z jogurtu, proteinu. Můžeme přidat sladidlo, arašídové máslo, med... "
+  },
+  {
+    "id": 39,
+    "nazev": "Rýžový pudink",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/334/pohankovykuskusovyryzovy-cokoladovo-arasidovy-pudink-cs-6KVv2.jpg",
+    "suroviny": [
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 120, "jednotka": "ml"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "1. Uvaříme rýži.\n2. Rýži smícháme s mlékem, proteinem, kakaem a dáme provařit.\n3. Navrch dáme arašídové máslo a promícháme. Rýži můžeme vyměnit též za pohanku, kuskus."
+  },
+  {
+    "id": 40,
+    "nazev": "Kokosové lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/839/veganske-kokosove-livance-s-chia-seminky-cs-69Xdm.jpg",
+    "suroviny": [
+      {"nazev": "Kokos mletý", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 100, "jednotka": "ml"}
+    ],
+    "postup": "1. Vločky rozmixujeme a všechny ingredience kromě oleje smícháme dohromady a na oleji smažíme."
+  },
+  {
+    "id": 41,
+    "nazev": "Jogurtová miska s opečenými jablky",
+    "kategorie": "Snídaně",
+    "obrazek": "http://kaloricketabulky.cz/file/image/recipe/cad134848a614ce58407cb75d1033095/0bab16b5ccd44bb3a78c8fbf5c653522",
+    "suroviny": [
+      {"nazev": "Bílý jogurt", "mnozstvi": 250, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Jablko", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Cukr", "mnozstvi": 7, "jednotka": "g"},
+      {"nazev": "Oříšky", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Jablka oloupeme a nakrájíme na malé kousky. Dáme je do menšího hrnce, smícháme s vodou, cukrem a skořicí. Za občasného míchání vaříme na mírném plameni.\n2. Jogurt dáme do misky a následně na něj přidáme ostatní ingredience."
+  },
+  {
+    "id": 42,
+    "nazev": "Fit krupicová kaše",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/navrat-do-detstvi-krupicova-kase-ve-fit-verzi?v=1615664985",
+    "suroviny": [
+      {"nazev": "Mléko", "mnozstvi": 300, "jednotka": "ml"},
+      {"nazev": "Protein", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Krupice", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Dáme vařit mléko. Když se vaří, přidáme krupici a mícháme do zhoustnutí. Přelijeme máslem, posypeme kakaem smíchaným s proteinem."
+  },
+  {
+    "id": 43,
+    "nazev": "Banánové minipalačinky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://varecha.pravda.sk/usercontent/images/velky-recept98541_1696854031.jpg",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 2, "jednotka": "lžíce"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Protein", "mnozstvi": g, "jednotka": "15"},
+      {"nazev": "Banán", "mnozstvi": 100, "jednotka": "g"}
+    ],
+    "postup": "1. Smícháme ingredience na těsto. Banán nakrájíme na kolečka, obalíme v těstě a smažíme."
+  },
+  {
+    "id": 44,
+    "nazev": "Tortilla s tvarohem a jablkem",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.naskokvkuchyni.cz/wp-content/uploads/2022/06/41BDCA98-72F5-4412-8252-C6F4AC542F32.jpeg",
+    "suroviny": [
+      {"nazev": "Tortilla", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Jablko", "mnozstvi": 90, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Tvaroh", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Rozinky", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Jablko nastrouháme, smícháme s tvarohem a zbytkem ingrediencí a dáme do tortilly.\n2. Zabalíme, potřeme lehce máslem a pečeme v troubě."
+  },
+  {
+    "id": 45,
+    "nazev": "Tiramisu lívanečky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.kaloricketabulky.cz/file/image/recipe/db291abcb89441cfb76834a95887a176/72eede811508417599aa79661082e9d2",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "1. Smícháme mouku, kávu, vodu, kypřící prášek na těsto a necháme odstát.\n2. Opékáme z obou stran, promažeme jogurtem."
+  },
+  {
+    "id": 46,
+    "nazev": "Snídaně šampionů",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Slunečnicová semínka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Tvaroh", "mnozstvi": 250, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "1. Vločky, semínka smícháme dohromady.\n2. Na pánvičku dáme med, vysypeme na to směs a smažíme do zlatova.\n3. Tvaroh smícháme s proteinem a na to dáme směs."
+  },
+  {
+    "id": 47,
+    "nazev": "Skořicové lívanečky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://ms2.ostium.cz/instance/web-recepty/jm5ryaoR/h389w574t.jpg",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 45, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Bílky vyšleháme a smícháme s ostatními ingrediencemi. Smažíme."
   }
 ]
