@@ -679,5 +679,28 @@
       {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"}
     ],
     "postup": "1. Bílky vyšleháme a smícháme s ostatními ingrediencemi. Smažíme."
+  },
+  {
+    "id": 48,
+    "nazev": "Pudinková rýže",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Proteinový pudink", "mnozstvi": 100, "jednotka": "g"}
+    ],
+    "postup": "1. Rýži uvaříme, po uvaření ještě povaříme s pudinkem koupeným v obchodě."
+  },
+  {
+    "id": 49,
+    "nazev": "Piškoty",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.kompava.cloud/buxus/images/cache/blog.blog_detail_article_image/import/articles/1838/cdc9803087cb738b733652c9fa947cfb.jpg.webp",
+    "suroviny": [
+      {"nazev": "Žitná mouka", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"}
+    ],
+    "postup": "1. Všechny ingredience smícháme, případně dolijeme vodou a pečeme na 180° do zlatova."
   }
 ]
