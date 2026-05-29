@@ -621,7 +621,7 @@
     "suroviny": [
       {"nazev": "Špaldová mouka", "mnozstvi": 2, "jednotka": "lžíce"},
       {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
-      {"nazev": "Protein", "mnozstvi": g, "jednotka": "15"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
       {"nazev": "Banán", "mnozstvi": 100, "jednotka": "g"}
     ],
     "postup": "1. Smícháme ingredience na těsto. Banán nakrájíme na kolečka, obalíme v těstě a smažíme."
