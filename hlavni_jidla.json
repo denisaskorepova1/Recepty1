@@ -3,7 +3,7 @@
     "id": 1,
     "nazev": "Cizrnový falafel",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.jimejinak.cz/_next/image/?url=https%3A%2F%2Fwww.jimejinak.cz%2Fwp-content%2Fuploads%2F2019%2F04%2Ffalafel-2215881_1280.jpg&w=1920&q=85",
     "suroviny": [
       {"nazev": "Cizrna z konzervy", "mnozstvi": 140, "jednotka": "g"},
       {"nazev": "Citronová šťáva", "mnozstvi": 10, "jednotka": "g"},
@@ -15,7 +15,7 @@
     "id": 2,
     "nazev": "Arašídové kuřecí řízky",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/erdnuss-haehnchenschnitzel-mit-salat.jpg?v=1757690907&width=712",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 120, "jednotka": "g"},
       {"nazev": "Arašídové máslo", "mnozstvi": 20, "jednotka": "g"},
@@ -27,7 +27,7 @@
     "id": 3,
     "nazev": "Batátový falafel",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://gymbeam.cz/blog/wp-content/uploads/fly-images/426846/Navrh-bez-nazvu-2023-03-21T083229.760-437x279.png",
     "suroviny": [
       {"nazev": "Quinoa", "mnozstvi": 15, "jednotka": "g"},
       {"nazev": "Cizrna", "mnozstvi": 100, "jednotka": "g"},
@@ -41,7 +41,7 @@
     "id": 4,
     "nazev": "Celozrnný knedlík",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.jimechytre.cz/wp-content/uploads/2015/01/P1020799.jpg",
     "suroviny": [
       {"nazev": "Celozrnný rohlík", "mnozstvi": 0.5, "jednotka": "kus"},
       {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
@@ -69,7 +69,7 @@
     "id": 6,
     "nazev": "Kuřecí kapsy s balkánem, bylinkami a rajčaty",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QQ_l/XS07/rizky.jpeg?fl=cro,737,0,3157,2368%7Cres,1024,,1%7Cwebp,75",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 120, "jednotka": "g"},
       {"nazev": "Bazalka", "mnozstvi": 5, "jednotka": "g"},
@@ -125,7 +125,7 @@
     "id": 10,
     "nazev": "Krůtí kuličky se sýrem a lehkou česnekovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QN_j/FPPCL/kruti-kulicky.jpeg?fl=cro,0,0,2250,1688%7Cres,1024,,1%7Cwebp,75",
     "suroviny": [
       {"nazev": "Krůtí mleté", "mnozstvi": 120, "jednotka": "g"},
       {"nazev": "Eidam", "mnozstvi": 30, "jednotka": "g"},
