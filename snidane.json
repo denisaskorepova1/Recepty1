@@ -702,5 +702,101 @@
       {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"}
     ],
     "postup": "1. Všechny ingredience smícháme, případně dolijeme vodou a pečeme na 180° do zlatova."
+  },
+  {
+    "id": 50,
+    "nazev": "Celozrnné a nadýchané lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://gymbeam.cz/blog/wp-content/uploads/fly-images/242229/Web-Lahodne-a-nadychane-lievance-na-3-sposoby-437x279.png",
+    "suroviny": [
+      {"nazev": "Mouka", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Sirup/med", "mnozstvi": 0.5, "jednotka": "lžíce"},
+      {"nazev": "Mléko", "mnozstvi": 80, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"}
+    ],
+    "postup": "1. Vše smícháme, necháme 5 minut odležet a opékáme."
+  },
+  {
+    "id": 51,
+    "nazev": "Ovesné kuličky do mléka",
+    "kategorie": "Snídaně",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/hafer-fruehstueckskugeln.jpg?v=1757690746&width=1000",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 115, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Kokosový olej", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "1. Troubu předehřejeme na 170°.\n2. Vše smícháme a vytvoříme těsto.\n3. Děláme malé kuličy, pečeme 15 minut."
+  },
+  {
+    "id": 52,
+    "nazev": "Banánovoskořicové suflé",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/243/bananovo-skoricove-sufle-cs-LofmK.jpg",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Bílek", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": g""}
+    ],
+    "postup": "1. Vyšleháme sníh, k němu přimícháme banán a skořici a dáme do zapékacích mističek na 200° 10 minut péct."
+  },
+  {
+    "id": 53,
+    "nazev": "Čokoládovorýžová krupice",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/1559771551-a-2919.jpg?v=1586538766",
+    "suroviny": [
+      {"nazev": "Rýžová kaše", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Čokoládový protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Hořká čokoláda", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Kaši nasypeme do hrnce, zalijeme proteinem rozmíchaným ve vodě a vaříme."
+  },
+  {
+    "id": 54,
+    "nazev": "Ovesný trhanec",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/424/ovesny-trhanec-s-bananem-tvarohem-a-arasidovym-maslem-cs-6lwg4.jpg",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Banán", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Protein", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Všechny ingredience smícháme a nalejeme na pánev.\n2. Otočíme placku a natrháme na malé části, opékáme."
+  },
+  {
+    "id": 55,
+    "nazev": "Tvarohové noky s jahodami",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.administrace.tv/2022/08/06/hd_169/ecc0379f4a5f680ca5fba8408c13d0e8.jpg",
+    "suroviny": [
+      {"nazev": "Odtučněný tvaroh", "mnozstvi": 250, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Rýžová krupička", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Sladidlo", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Jahody", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Do velkého hrnce dáme vařit vodu.\n2. Smícháme vejce s tvarohem, krupičkou a trochou soli.\n3. Vytvarujeme nočky, vaříme ve vodě, dokud nevyplavou.\n4. Jahody umyjeme, zahřejeme v kastrolu, rozmixujeme, osladíme a polijeme tím knedlíčky."
+  },
+  {
+    "id": 56,
+    "nazev": "Mléčná rýže s mascarpone",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.administrace.tv/2023/06/05/hd_169/a77962d9335642dd2014f76d9bde0b12.jpg",
+    "suroviny": [
+      {"nazev": "Máslo", "mnozstvi": 2.5, "jednotka": "g"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 250, "jednotka": "ml"},
+      {"nazev": "Mascarpone", "mnozstvi": 25, "jednotka": "g"}
+    ],
+    "postup": "1. Mléko přivedeme k varu a udržujeme teplé.\n2. Na másle orestujeme uvařenou rýži.\n3. Dáme do mléka, přidáme mascarpone."
   }
 ]
