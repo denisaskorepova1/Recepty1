@@ -938,5 +938,149 @@
       {"nazev": "Kečup", "mnozstvi": 10, "jednotka": "g"}
     ],
     "postup": "1. Vajíčka si rozkvedláme a uděláme na pánvi omeletu. Tortillu dáme do mikrovlnky na 1 min.\n2. Na omeletu dáme kečup, šunku, sýr, položíme na tortillu a zabalíme."
+  },
+  {
+    "id": 67,
+    "nazev": "Středověké vafle",
+    "kategorie": "Snídaně",
+    "obrazek": "https://static.toprecepty.cz/fotky/recepty/1016/bramborove-vafle-283670-1920-1080-nwo.jpg",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 0.5, "jednotka": "hrnku"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Šunka", "mnozstvi": 3, "jednotka": "plátky"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Sýr", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Voda", "mnozstvi": 1, "jednotka": "hrnek"},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Pažitka", "mnozstvi": 0, "jednotka": "g"}
+    ],
+    "postup": "1. Na pánvi opečeme plátky šunky a nakrájíme.\n2. V míse smícháme všechny ostatní suroviny, bílky vyšleháme.\n3. Pečeme dozlatova."
+  },
+  {
+    "id": 68,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": 69,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": 70,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": ,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": ,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": ,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": ,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": ,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
+  },
+  {
+    "id": ,
+    "nazev": "",
+    "kategorie": "Snídaně",
+    "obrazek": "",
+    "suroviny": [
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""},
+      {"nazev": "", "mnozstvi": , "jednotka": ""}
+    ],
+    "postup": ""
   }
 ]
