@@ -741,7 +741,7 @@
     "suroviny": [
       {"nazev": "Banán", "mnozstvi": 1, "jednotka": "kus"},
       {"nazev": "Bílek", "mnozstvi": 2, "jednotka": "kusy"},
-      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": g""}
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"}
     ],
     "postup": "1. Vyšleháme sníh, k němu přimícháme banán a skořici a dáme do zapékacích mističek na 200° 10 minut péct."
   },
@@ -869,5 +869,74 @@
       {"nazev": "Mražený banán", "mnozstvi": 1, "jednotka": "kus"}
     ],
     "postup": "1. Vše rozmixujeme a ozdobíme."
+  },
+  {
+    "id": 62,
+    "nazev": "Proteinové vafle",
+    "kategorie": "Snídaně",
+    "obrazek": "https://gymbeam.cz/blog/wp-content/uploads/fly-images/614249/Navrh-bez-nazvu-2024-09-18T145116.780-437x279.png",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 0.5, "jednotka": "hrnku"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 0.3, "jednotka": "hrnku"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Vše kromě bílku smícháme, přimícháme nakonec ušlehaný bílek."
+  },
+  {
+    "id": 63,
+    "nazev": "Lívanečky z tvarohu",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/d5dc7396-6c7e-4809-bed9-69ab3b29e7e1?v=1758007060",
+    "suroviny": [
+      {"nazev": "Tvaroh", "mnozstvi": 65, "jednotka": "g"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 0.25, "jednotka": "hrnku"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"}
+    ],
+    "postup": "1. Vše kromě bíllku smícháme, přimícháme nakonec ušlehaný bílek."
+  },
+  {
+    "id": 64,
+    "nazev": "Čokoládové vafle",
+    "kategorie": "Snídaně",
+    "obrazek": "https://storage.kupi.cz/d/recipes-recipe/4004/large",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Rozmačkaný baníán přidáme k ostatním surovinám, pořádně promícháme a dáme do vaflovače."
+  },
+  {
+    "id": 65,
+    "nazev": "Štrúdl v mističce",
+    "kategorie": "Snídaně",
+    "obrazek": "https://ik.imagekit.io/mva6zbib7/prod/recipes/3be87d26-d72c-4f66-bc49-1e1c5a5dbd5c/fit_rychly_strudl_do_misky/fit_rychly_strudl_do_misky_1__TO2g44am.png?tr=w-1024%2Ch-auto%2Cfo-auto",
+    "suroviny": [
+      {"nazev": "Tvaroh", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Jablko", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Skořie", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Rozinky", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Ořechy", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Jablko nastrouháme a pak už jen postupně vrstvíme do mističky."
+  },
+  {
+    "id": 66,
+    "nazev": "Vaječná tortilla",
+    "kategorie": "Snídaně",
+    "obrazek": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT55x8jHBdeAGO9XIP_sccQ8l6gc0WIrDiMSA&s",
+    "suroviny": [
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Tortilla", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Sýr", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Šunka", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Kečup", "mnozstvi": 10, "jednotka": "g"},
+    ],
+    "postup": "1. Vajíčka si rozkvedláme a uděláme na pánvi omeletu. Tortillu dáme do mikrovlnky na 1 min.\n2. Na omeletu dáme kečup, šunku, sýr, položíme na tortillu a zabalíme."
   }
 ]
