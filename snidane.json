@@ -935,7 +935,7 @@
       {"nazev": "Tortilla", "mnozstvi": 1, "jednotka": "kus"},
       {"nazev": "Sýr", "mnozstvi": 20, "jednotka": "g"},
       {"nazev": "Šunka", "mnozstvi": 40, "jednotka": "g"},
-      {"nazev": "Kečup", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kečup", "mnozstvi": 10, "jednotka": "g"}
     ],
     "postup": "1. Vajíčka si rozkvedláme a uděláme na pánvi omeletu. Tortillu dáme do mikrovlnky na 1 min.\n2. Na omeletu dáme kečup, šunku, sýr, položíme na tortillu a zabalíme."
   }
