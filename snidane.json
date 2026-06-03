@@ -798,5 +798,76 @@
       {"nazev": "Mascarpone", "mnozstvi": 25, "jednotka": "g"}
     ],
     "postup": "1. Mléko přivedeme k varu a udržujeme teplé.\n2. Na másle orestujeme uvařenou rýži.\n3. Dáme do mléka, přidáme mascarpone."
+  },
+  {
+    "id": 57,
+    "nazev": "Jáhelná kaše",
+    "kategorie": "Snídaně",
+    "obrazek": "https://kitchenette.cz/uploads/media/article_image/0001/04/thumb_3287_article_image_gridOne.jpeg",
+    "suroviny": [
+      {"nazev": "Jáhly", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 200, "jednotka": "ml"},
+      {"nazev": "Jablko", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Šťáva z citronu", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Jáhly spaříme horkou vodou a dáme do hrnce s mlékem, trochou soli a sladidlem.\n2. Přivedeme k varu a vaříme.\n3. Jablka oloupeme a nakrájíme na malé kostičky, dáme do menšího hrnce spolu s trochou vodi a ostatními ingrediencemi a vaříme, dokud nebudou měkká."
+  },
+  {
+    "id": 58,
+    "nazev": "Celozrnné bulky - základní recept",
+    "kategorie": "Snídaně",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/vollkornbrotchen---grundrezept.jpg?v=1757690660&width=1000",
+    "suroviny": [
+      {"nazev": "Mléko", "mnozstvi": 150, "jednotka": "ml"},
+      {"nazev": "Voda", "mnozstvi": 250, "jednotka": "ml"},
+      {"nazev": "Cukr", "mnozstvi": 2, "jednotka": "lžičky"},
+      {"nazev": "Droždí", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 500, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 2, "jednotka": "lžíce"}
+    ],
+    "postup": "1. Teplou vodu, teplé mléko, cukr a droždí smícháme v hrníčku a necháme vzejít kvásek.\n2. Mouku prosejeme do mísy a smícháme s připraveným kváskem, solí (15 g) a olejem.\n3. Mísu přikyjeme utěrkou a necháme těsto kynout na teplém místě cca 1 hodinu.\n4. Z těsta vytvarujeme bulky, necháme nakynout ještě 15 minut.\n5. Předehřejeme troubu na 220°. Bulky potřeme vodou a můžeme posypat semínky. Pečeme 25 minut na 220°."
+  },
+  {
+    "id": 59,
+    "nazev": "Banana vegan smoothie bowl",
+    "kategorie": "Snídaně",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/vegane-bananen-smoothie-bowl.jpg?v=1757690836&width=833",
+    "suroviny": [
+      {"nazev": "Mléko", "mnozstvi": 250, "jednotka": "ml"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Mražený banán", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Hořká čokoláda", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Mléko, arašídové máslo, kakao a banán společně umixujeme do hladka.\n2. Směs přemístíme do misky, posypeme strouhanou čokoládou, ořechy a plátky banánu."
+  },
+  {
+    "id": 60,
+    "nazev": "Lívance ze špaldové mouky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/pernikove-livance-8.jpeg?v=1607941323",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháme a smažíme na oleji."
+  },
+  {
+    "id": 61,
+    "nazev": "Acai miska",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.myshoptet.com/usr/687557.myshoptet.com/user/documents/upload/magazine/20190908/acai-bowl-miska-drevena-lzicka.jpg",
+    "suroviny": [
+      {"nazev": "Mandlové mléko", "mnozstvi": 250, "jednotka": "ml"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Mražené lesní ovoce", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Mražený banán", "mnozstvi": 1, "jednotka": "kus"}
+    ],
+    "postup": "1. Vše rozmixujeme a ozdobíme."
   }
 ]
