@@ -917,11 +917,11 @@
     "kategorie": "Snídaně",
     "obrazek": "https://ik.imagekit.io/mva6zbib7/prod/recipes/3be87d26-d72c-4f66-bc49-1e1c5a5dbd5c/fit_rychly_strudl_do_misky/fit_rychly_strudl_do_misky_1__TO2g44am.png?tr=w-1024%2Ch-auto%2Cfo-auto",
     "suroviny": [
-      {"nazev": "Tvaroh", "mnozstvi": 0, "jednotka": ""},
-      {"nazev": "Jablko", "mnozstvi": 0, "jednotka": ""},
-      {"nazev": "Skořie", "mnozstvi": 0, "jednotka": ""},
-      {"nazev": "Rozinky", "mnozstvi": 0, "jednotka": ""},
-      {"nazev": "Ořechy", "mnozstvi": 0, "jednotka": ""}
+      {"nazev": "Tvaroh", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Jablko", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Skořie", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Rozinky", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Ořechy", "mnozstvi": 0, "jednotka": "g"}
     ],
     "postup": "1. Jablko nastrouháme a pak už jen postupně vrstvíme do mističky."
   },
@@ -1120,20 +1120,6 @@
   },
   {
     "id": 80,
-    "nazev": "",
-    "kategorie": "Snídaně",
-    "obrazek": "",
-    "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
-    ],
-    "postup": ""
-  },
-  {
-    "id": 81,
     "nazev": "Mléčná rýže",
     "kategorie": "Snídaně",
     "obrazek": "https://images.emimino.cz/i/images/1000/169/3889866-mlecna-ryze.jpg?5",
@@ -1145,7 +1131,7 @@
     "postup": "1. Uvaříme rýži ve vodě, následně ji přelijeme k mléku a provaříme v mléce."
   },
   {
-    "id": 83,
+    "id": 81,
     "nazev": "Oreo ovesná pečená kaše",
     "kategorie": "Snídaně",
     "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/double-chocolate-chip-baked-oats-2.jpeg?v=1682524585",
