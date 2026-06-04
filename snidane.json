@@ -959,34 +959,167 @@
   },
   {
     "id": 68,
-    "nazev": "",
+    "nazev": "Chia puding",
     "kategorie": "Snídaně",
-    "obrazek": "",
+    "obrazek": "https://aromarecepty.cz/wp-content/uploads/2016/04/jednoduchy-dezert-puding-z-chia-seminek.jpg",
     "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
+      {"nazev": "Chia semínka", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 200, "jednotka": "ml"},
+      {"nazev": "Med", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Ovoce", "mnozstvi": 0, "jednotka": "g"},
+      {"nazev": "Tvaroh", "mnozstvi": 0, "jednotka": "g"}
     ],
-    "postup": ""
+    "postup": "1. chia semínka smícháme s mlékem a medem a necháme v lednici odležet do dalšího dne.\n2. Přidáme tvaroh a ovoce podle chuti."
   },
   {
     "id": 69,
-    "nazev": "",
+    "nazev": "Bagely (4 porce)",
     "kategorie": "Snídaně",
-    "obrazek": "",
+    "obrazek": "https://lowcarbkuchyne.cz/uploads/recipe_images/img_69e627dd889801.41129305.webp",
     "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
+      {"nazev": "Špaldová mouka", "mnozstvi": 190, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 140, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Semínka", "mnozstvi": 0, "jednotka": "g"}
     ],
-    "postup": ""
+    "postup": "1. Ingredience kromě semínek smícháme, necháme kynout.\n2. Po vykynutí vytvarujeme bagely, dáme na plech a necháme ještě cca 15 minut nakynout.\n3. Potřeme vejcem a posypeme semínky.\n4. Pečeme dozlatova."
   },
   {
     "id": 70,
+    "nazev": "Cottage bulky (4 porce)",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/cottage-housky-3.jpeg?v=1644240289",
+    "suroviny": [
+      {"nazev": "Špaldová mouka", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Cottage", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Sůl", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháem a těsto necháme cca 30 minut odležet.\n2. Předehřejeme troubu na 180°. Vytvarujeme 4 bulky, dáme na plech a pečeme cca 30 minut."
+  },
+  {
+    "id": 71,
+    "nazev": "Banánové lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://static.albert.cz/medias/sys_master/recipes/hcf/ha5/9114476445726.jpg?buildNumber=7224a46dd6e69c0d2357dc801e1625e3358ae6f91d762dca5e4969382ef1cfa5&imwidth=500",
+    "suroviny": [
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Banán", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháme a smažíme."
+  },
+  {
+    "id": 72,
+    "nazev": "Jablečné lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://vareni-production-cdn.xsd.cz/obrazky/recepty/214/84b16e67-8194-42a5-b200-c62280ad1bf7-velky.jpg",
+    "suroviny": [
+      {"nazev": "Jablko", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Jablko nastrouháme na jemno a smícháme s ostatními ingrediencemi, smažíme."
+  },
+  {
+    "id": 73,
+    "nazev": "Tvarohové vafle",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.babiccinavolba.cz/wp-content/uploads/2022/02/vafle_4-1200x1200.jpg",
+    "suroviny": [
+      {"nazev": "Tvaroh", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Bílek vyšleháme a smícháme s ostatními ingrediencemi, pečeme ve vaflovači."
+  },
+  {
+    "id": 74,
+    "nazev": "Kefírové lívance",
+    "kategorie": "Snídaně",
+    "obrazek": "https://static.toprecepty.cz/fotky/recepty/0826/nadychane-kefirove-livance-263781-670-377-nw.jpg",
+    "suroviny": [
+      {"nazev": "Kefírové mléko", "mnozstvi": 100, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Banán", "mnozstvi": 35, "jednotka": "g"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 70, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháme a smažíme."
+  },
+  {
+    "id": 75,
+    "nazev": "Mix rýžová kaše",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.mamavzastere.cz/wp-content/uploads/2023/04/19624C97-A0D7-4ABB-94DF-D4BDE79D5264.jpg",
+    "suroviny": [
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 70, "jednotka": "ml"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "1. Rýži uvaříme standardně ve vodě, následně ji rozmixujeme spolu s mlékem a proteinem. Můžeme ještě povařit."
+  },
+  {
+    "id": 76,
+    "nazev": "Blended bake oats",
+    "kategorie": "Snídaně",
+    "obrazek": "https://img.mix.it/article/cz/348/webp_llg-e6968e2879b61830a1d980186a02a885.webp",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Banán", "mnozstvi": 75, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Mléko", "mnozstvi": 60, "jednotka": "ml"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháme a dáme péct."
+  },
+  {
+    "id": 77,
+    "nazev": "Mugcake - základní recept",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.fitness007.cz/db/wysiwyg/Image/Poradna/mugcake.jpeg",
+    "suroviny": [
+      {"nazev": "Ovesné vločky", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Všechny ingredience smícháme a dáme na 4 minuty do mikrovlnky. Základní recept můžeme doplnit o banán, kakao, jablko... "
+  },
+  {
+    "id": 78,
+    "nazev": "Jogurtové vafle",
+    "kategorie": "Snídaně",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-32366052_social-boruvky-mandle-vafle-jogurt?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
+    "suroviny": [
+      {"nazev": "Bílý ogurt", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Bílek vyšleháme a smícháme s ostatními ingrediencemi, pečeme ve vaflovači."
+  },
+  {
+    "id": 79,
+    "nazev": "Fit palačinky",
+    "kategorie": "Snídaně",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/910/snidanove-ovesne-palacinky-s-lahodnou-naplni-cs-g9Np5.jpg",
+    "suroviny": [
+      {"nazev": "Bílý jogurt", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Vše smícháme a smažíme na oleji."
+  },
+  {
+    "id": 80,
     "nazev": "",
     "kategorie": "Snídaně",
     "obrazek": "",
@@ -1000,87 +1133,28 @@
     "postup": ""
   },
   {
-    "id": ,
-    "nazev": "",
+    "id": 81,
+    "nazev": "Mléčná rýže",
     "kategorie": "Snídaně",
-    "obrazek": "",
+    "obrazek": "https://images.emimino.cz/i/images/1000/169/3889866-mlecna-ryze.jpg?5",
     "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 200, "jednotka": "ml"},
+      {"nazev": "Skořice", "mnozstvi": 3, "jednotka": "g"}
     ],
-    "postup": ""
+    "postup": "1. Uvaříme rýži ve vodě, následně ji přelijeme k mléku a provaříme v mléce."
   },
   {
-    "id": ,
-    "nazev": "",
+    "id": 83,
+    "nazev": "Oreo ovesná pečená kaše",
     "kategorie": "Snídaně",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/double-chocolate-chip-baked-oats-2.jpeg?v=1682524585",
     "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
+      {"nazev": "Ovesné vločky", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
     ],
-    "postup": ""
-  },
-  {
-    "id": ,
-    "nazev": "",
-    "kategorie": "Snídaně",
-    "obrazek": "",
-    "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
-    ],
-    "postup": ""
-  },
-  {
-    "id": ,
-    "nazev": "",
-    "kategorie": "Snídaně",
-    "obrazek": "",
-    "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
-    ],
-    "postup": ""
-  },
-  {
-    "id": ,
-    "nazev": "",
-    "kategorie": "Snídaně",
-    "obrazek": "",
-    "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
-    ],
-    "postup": ""
-  },
-  {
-    "id": ,
-    "nazev": "",
-    "kategorie": "Snídaně",
-    "obrazek": "",
-    "suroviny": [
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""},
-      {"nazev": "", "mnozstvi": , "jednotka": ""}
-    ],
-    "postup": ""
+    "postup": "1. Všechny ingredience smíchat, případně dolít vodou a péct na 180° dozlatova."
   }
 ]
