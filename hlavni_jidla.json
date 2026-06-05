@@ -54,7 +54,7 @@
     "id": 5,
     "nazev": "Rýžové nudle s kuřecím masem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/reisnudeln-mit-huhnchenfleisch.jpg?v=1757690654&width=1000",
     "suroviny": [
       {"nazev": "Rýžové nudle", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
@@ -84,7 +84,7 @@
     "id": 7,
     "nazev": "Palačinky s marmeládou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://static.albert.cz/medias/sys_master/images/h48/h14/8950565306398.jpg?buildNumber=7224a46dd6e69c0d2357dc801e1625e3358ae6f91d762dca5e4969382ef1cfa5&imwidth=500",
     "suroviny": [
       {"nazev": "Špaldová mouka", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Mléko", "mnozstvi": 200, "jednotka": "ml"},
@@ -96,7 +96,7 @@
     "id": 8,
     "nazev": "Nové brambory s bylinkovým máslem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QL_p/CihI/brambory.jpeg?fl=cro,277,1,2250,1687%7Cres,722,,1%7Cwebp,75",
     "suroviny": [
       {"nazev": "Brambory", "mnozstvi": 200, "jednotka": "g"},
       {"nazev": "Máslo", "mnozstvi": 30, "jednotka": "g"},
@@ -110,7 +110,7 @@
     "id": 9,
     "nazev": "Creamy garlic chicken",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.spendwithpennies.com/wp-content/uploads/2025/03/Garlic-Chicken-SpendWithPennies-7.jpg",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Máslo", "mnozstvi": 30, "jednotka": "g"},
@@ -138,7 +138,7 @@
     "id": 11,
     "nazev": "Chow mein nudle s masem a zeleninou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QL_j/nowGM/Chow-mein-nudle.jpeg?fl=cro,300,0,4608,3456%7Cres,722,,1%7Cwebp,75",
     "suroviny": [
       {"nazev": "Kuřecí maso", "mnozstvi": 120, "jednotka": "g"},
       {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
@@ -159,7 +159,7 @@
     "id": 12,
     "nazev": "Vepřová panenka se švestkovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QR_f/X3PGy/veprova-panenka.jpeg?fl=cro,275,0,1500,1125%7Cres,722,,1%7Cwebp,75",
     "suroviny": [
       {"nazev": "Vepřová panenka", "mnozstvi": 200, "jednotka": "g"},
       {"nazev": "Anglická slanina", "mnozstvi": 40, "jednotka": "g"},
@@ -176,7 +176,7 @@
     "id": 13,
     "nazev": "Vepřové na kmíně",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_E_C/QZKD3.jpeg?fl=cro,0,0,2250,1688%7Cres,722,,1%7Cwebp,75",
     "suroviny": [
       {"nazev": "Vepřová plec", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
@@ -190,7 +190,7 @@
     "id": 14,
     "nazev": "Rychlá hovězí směs s paprikami",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QJ_m/TlyB1/hovezi-maso-recept-papriky.jpeg?fl=cro,0,0,1876,1407%7Cres,722,,1%7Cwebp,75",
     "suroviny": [
       {"nazev": "Hovězí svíčková", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Červená cibule", "mnozstvi": 0, "jednotka": ""},
@@ -208,7 +208,7 @@
     "id": 15,
     "nazev": "Jogurtové řízky",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://zdraverecepty.cz/wp-content/uploads/2020/11/Jogurtove-rizky.jpg",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Bílý jogurt", "mnozstvi": 0, "jednotka": ""},
@@ -223,7 +223,7 @@
     "id": 16,
     "nazev": "Vepřová panenka v medovo-vínové omáčce",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www-jidlo-cz.estranky.cz/img/picture/4/fb2d567a-b86e-496e-a7c9-28e5d711e38e-2.jpg",
     "suroviny": [
       {"nazev": "Vepřové medailonky", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
@@ -241,7 +241,7 @@
     "id": 17,
     "nazev": "Crispy tofu",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://christieathome.com/wp-content/uploads/2023/10/crispy-soy-garlic-tofu5.jpg",
     "suroviny": [
       {"nazev": "Tofu", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Rýže", "mnozstvi": 0, "jednotka": ""},
@@ -271,7 +271,7 @@
     "id": 19,
     "nazev": "Těstoviny Alfredo",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/a613c27a-511a-4623-9086-5c41c0b2aaf3?v=1769467748",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
@@ -287,7 +287,7 @@
     "id": 20,
     "nazev": "Salát s pečenými gnocchi",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/5a0bb7f1-d1cb-4b95-a761-390073868d63?v=1714939000",
     "suroviny": [
       {"nazev": "Gnocchi", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Ledový salát", "mnozstvi": 70, "jednotka": "g"},
@@ -300,9 +300,9 @@
   },
   {
     "id": 22,
-    "nazev": "Kuřecí paličky s kokosovým mlékem",
+    "nazev": "Kuřecí placičky s kokosovým mlékem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/2c2cc22d-c99e-41a3-bd49-499b9f9d843a?v=1773476281",
     "suroviny": [
       {"nazev": "Mleté kuřecí", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Mrkev", "mnozstvi": 15, "jednotka": "g"},
@@ -320,7 +320,7 @@
     "id": 23,
     "nazev": "Těstoviny s krémovou paprikovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.mycookingdiary.cz/wp-content/uploads/2019/02/p2250220-1080x810.jpg",
     "suroviny": [
       {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
       {"nazev": "Paprika", "mnozstvi": 100, "jednotka": "g"},
@@ -336,7 +336,7 @@
     "id": 24,
     "nazev": "Hermelín se zkaramelizovanou cibulkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.naskokvkuchyni.cz/wp-content/uploads/2021/08/D7C8788C-A75D-4DA2-B55D-4F936A14521D-1024x768.jpeg",
     "suroviny": [
       {"nazev": "Hermelín", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Cibule červená", "mnozstvi": 0, "jednotka": ""},
@@ -350,7 +350,7 @@
     "id": 25,
     "nazev": "Salát s kuřecím masem a medovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.naskokvkuchyni.cz/wp-content/uploads/2023/08/IMG_1408.jpg",
     "suroviny": [
       {"nazev": "Mix salátů", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Ředkvičky", "mnozstvi": 0, "jednotka": ""},
@@ -370,7 +370,7 @@
     "id": 26,
     "nazev": "Zapečené noky",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.mycookingdiary.cz/wp-content/uploads/2021/01/p9136744-1080x810.jpg",
     "suroviny": [
       {"nazev": "Gnocchi", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Cibule", "mnozstvi": 0, "jednotka": ""},
@@ -387,7 +387,7 @@
     "id": 27,
     "nazev": "Tofu kuličky",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2023/06/IMG_6997-1-1-web-970x970.jpg",
     "suroviny": [
       {"nazev": "Tofu", "mnozstvi": 90, "jednotka": "g"},
       {"nazev": "Mouka", "mnozstvi": 10, "jednotka": "g"},
@@ -400,7 +400,7 @@
     "id": 28,
     "nazev": "Asijské kuře",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2024/12/IMG_6271-1-1-web-970x970.jpg",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
@@ -418,7 +418,7 @@
     "id": 29,
     "nazev": "Zapečené kuře s rýží",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2025/02/IMG_8587-1-1-web-970x970.jpg",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
@@ -434,7 +434,7 @@
     "id": 30,
     "nazev": "Asijské kuře z jedné misky",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://restarthubnuti.cz/wp-content/uploads/2025/05/IMG_0263-1-1-web-970x970.jpg",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Rýže", "mnozstvi": 0, "jednotka": ""},
@@ -449,7 +449,7 @@
     "id": 31,
     "nazev": "Zapečené těstoviny s kuřecím masem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-24284313_social-okurka-cibule-testoviny-syr?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Paprika", "mnozstvi": 30, "jednotka": "g"},
@@ -465,7 +465,7 @@
     "id": 32,
     "nazev": "Krůtí špízy v jogurtové marinádě",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://zdravezivena.cz/wp-content/uploads/2022/03/IMG_6532-750x500.jpg",
     "suroviny": [
       {"nazev": "Krůtí prsa", "mnozstvi": 120, "jednotka": "g"},
       {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
@@ -479,7 +479,7 @@
     "id": 33,
     "nazev": "Rizoto s mletým masem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-30821222_social-rajce-syr-rizoto-hovezi-paprika?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
     "suroviny": [
       {"nazev": "Paprika", "mnozstvi": 30, "jednotka": "g"},
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
@@ -492,7 +492,7 @@
     "id": 34,
     "nazev": "Těstoviny se smetanovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.apetitonline.cz/sites/default/files/styles/apetit_article_landscape_large/public/recepty/11423088-Quick-pasta-with-a-creamy-rocket-and-cheese-sauce.jpeg.webp",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
@@ -508,7 +508,7 @@
     "id": 35,
     "nazev": "Krůtí plátky v omáčce z pečených rajčat",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-28055714_social-kruti-rajce-omacka-cesnek-paprika?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
     "suroviny": [
       {"nazev": "Krůtí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "kus"},
@@ -525,7 +525,7 @@
     "id": 36,
     "nazev": "Hovězí kuličky v pikantní omáčce",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-26120098_social-chilli-porek-bulgur-maso-omacka?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
     "suroviny": [
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
       {"nazev": "Rajčatový protlak", "mnozstvi": 1, "jednotka": "lžíce"},
@@ -544,7 +544,7 @@
     "id": 37,
     "nazev": "Krůtí medailonky se smetanovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://kaufland.media.schwarz/is/image/schwarz/recipe-cz-26405876_social-cesnek-ryze-kruti-bylinky?JGstbGVnYWN5LW9uc2l0ZS0zJA==",
     "suroviny": [
       {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
       {"nazev": "Slepičí bujon", "mnozstvi": 0, "jednotka": ""},
@@ -560,7 +560,7 @@
     "id": 38,
     "nazev": "Gnocchi s rajčatovou omáčkou a mozzarellou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/23d1813a-3c54-4c0e-92de-f6d30032710a?v=1705954642",
     "suroviny": [
       {"nazev": "Gnocchi", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Rajčatové pyré", "mnozstvi": 0, "jednotka": ""},
@@ -575,7 +575,7 @@
     "id": 39,
     "nazev": "Bang bang kuřecí špízy",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/53b4f3cc-c9fd-40a8-8693-b4bcc9cedb7f?v=1710108081",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""},
@@ -589,7 +589,7 @@
     "id": 40,
     "nazev": "Smažená rýže s vejcem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/cce6c5cc-ce62-478d-b9d4-56fb02f09bf6?v=1725735055",
     "suroviny": [
       {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
@@ -604,7 +604,7 @@
     "id": 41,
     "nazev": "Domácí kuřecí McNuggets",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/7fe55981-a761-44dc-8251-374e020a8674?v=1724627758",
     "suroviny": [
       {"nazev": "Mleté kuřecí", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Strouhanka", "mnozstvi": 0, "jednotka": ""},
@@ -617,7 +617,7 @@
     "id": 42,
     "nazev": "Kuřecí Satay Bowl",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/2220081e-9dd7-4418-80d3-ba8596970065?v=1722280132",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
@@ -632,7 +632,7 @@
     "id": 43,
     "nazev": "Těstoviny s kuřecím a rajčatovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/b18c1624-94b9-4dde-95d3-69aea29a9a22?v=1728811478",
     "suroviny": [
       {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
@@ -648,7 +648,7 @@
     "id": 44,
     "nazev": "Křupavé tofu na pánvi",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.administrace.tv/2023/08/29/hd_169/bd7c3e98f5a2a42b95c4e2679f714deb.jpg",
     "suroviny": [
       {"nazev": "Tofu", "mnozstvi": 90, "jednotka": "g"},
       {"nazev": "Škrob", "mnozstvi": 5, "jednotka": "g"},
@@ -665,7 +665,7 @@
     "id": 45,
     "nazev": "Chicken shawarma bowl",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/e63a1721-2ae6-4303-98b7-ce1f46aa3164?v=1722691695",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
@@ -680,7 +680,7 @@
     "id": 46,
     "nazev": "Kuřecí souvlaki a tzatziki",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://static.albert.cz/medias/sys_master/images/h4b/h90/8951434706974.jpg?buildNumber=7224a46dd6e69c0d2357dc801e1625e3358ae6f91d762dca5e4969382ef1cfa5&imwidth=500",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
@@ -696,7 +696,7 @@
     "id": 47,
     "nazev": "Palačinky zapečené s tvarohem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/zapecene-palacinky-s-tvarohem.jpg?v=1757690121&width=1000",
     "suroviny": [
       {"nazev": "Mouka", "mnozstvi": 10, "jednotka": "g"},
       {"nazev": "Mléko", "mnozstvi": 100, "jednotka": "ml"},
@@ -715,7 +715,7 @@
     "id": 48,
     "nazev": "Zapékaná kuřecí prsa",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://gymbeam.cz/blog/wp-content/uploads/fly-images/414367/prew-prsa-nova-437x279.png",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Bílý jogurt", "mnozstvi": 40, "jednotka": "g"},
@@ -729,7 +729,7 @@
     "id": 49,
     "nazev": "Plněné batáty",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://paleosnadno.cz/wp-content/uploads/2025/02/DSC0185.jpg.webp",
     "suroviny": [
       {"nazev": "Mleté hovězí", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Batáty", "mnozstvi": 250, "jednotka": "g"},
@@ -744,7 +744,7 @@
     "id": 50,
     "nazev": "Salát s pečenými gnocchi",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/97a01b48-a6c0-4236-ace7-772607120891?v=1714939021",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Gnocchi", "mnozstvi": 100, "jednotka": "g"},
@@ -778,7 +778,7 @@
     "id": 52,
     "nazev": "Kuře se smetanovou omáčkou",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://mandimu.cz/cdn/shop/articles/huhnchen-in-sahnesauce.jpg?v=1757690866&width=1000",
     "suroviny": [
       {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
       {"nazev": "Brambory", "mnozstvi": 200, "jednotka": "g"},
@@ -792,7 +792,7 @@
     "id": 53,
     "nazev": "Špagety s omáčkou ze sušených rajčat",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://cdn.administrace.tv/2022/08/07/hd_169/697a2af4a85a61c7bc2d0a97d591f4ce.jpg",
     "suroviny": [
       {"nazev": "Špagety", "mnozstvi": 0, "jednotka": ""},
       {"nazev": "Sušená rajčata", "mnozstvi": 0, "jednotka": ""},
@@ -809,7 +809,7 @@
     "id": 54,
     "nazev": "Těstoviny s citronem a parmezánem",
     "kategorie": "Hlavní jídlo",
-    "obrazek": "",
+    "obrazek": "https://www.kaloricketabulky.cz/file/image/recipe/986abc62a3f946b383dc19cf441d6421/c8bf9e5acf4a445aa51e0c24d9ab5040",
     "suroviny": [
       {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
       {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
