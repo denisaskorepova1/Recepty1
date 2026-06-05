@@ -818,5 +818,84 @@
       {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"}
     ],
     "postup": "Uvaříme těstoviny, osmažíme maso, přidáme sůl, pepř, česnek. Přidáme citronovou šťávu a vaříme. Dáme špenát, uvařené těstoviny a necháme provařit. Zasypeme parmezánem."
+  },
+  {
+    "id": 55,
+    "nazev": "Špagety alfredo s kuřecím masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QJ_K/kY2BI/spagety-alfredo.jpeg?fl=cro,0,0,4496,3372%7Cres,722,,1%7Cwebp,75",
+    "suroviny": [
+      {"nazev": "Špagety", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Smetana ke šlehání", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Uvaříme špagety.\n2. Česnek oloupeme, nasekáme. Ve velké pánvi rozehřejeme máslo, přidáme česnek a restujeme.\n3. Zalijeme smetanou a vmícháme sýr, sůl a pepř.\n4. Vmícháme uvařené těstoviny. Připravíme kuře."
+  },
+  {
+    "id": 56,
+    "nazev": "Krémové těstoviny z jednoho hrnce",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_G_C/wYyUa.jpeg?fl=cro,0,0,1920,1080%7Cres,1200,,1%7Cwebp,75",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Uzená paprika", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Mouka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Oregano", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 45, "jednotka": "ml"},
+    ],
+    "postup": "1. Kuře orestujeme, zasypeme paprikou, pepřem a česnekem.\n2. Vmícháme mouku, zalijeme smetanou a trochou vody, přidáme sůl, oregano a vaříme.\n3. Přidáme těstoviny."
+  },
+  {
+    "id": 57,
+    "nazev": "Nudle s mletým masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QO_4/0dsHt/udon-nudle.jpeg?fl=cro,0,0,2806,2104%7Cres,722,,1%7Cwebp,75",
+    "suroviny": [
+      {"nazev": "Cibule", "mnozstvi": 0.25, "jednotka": "kus"},
+      {"nazev": "Paprika", "mnozstvi": 0.25, "jednotka": "kus"},
+      {"nazev": "Mleté hovězí", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Cukr", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "ml"},
+      {"nazev": "Bazalka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Nudle", "mnozstvi": 60, "jednotka": "g"},
+    ],
+    "postup": "1. Rozpálíme olej a necháme zesklovatět cibuli. Přihodíme papriku a maso. Uvaříme nudle.\n2. Maso zasypeme cukrem, česnekem a trochou chilli. Opékáme, dokud cukr nezkaramelizuje.\n3. Zalijeme sójovkou a vmícháme nudle."
+  },
+  {
+    "id": 58,
+    "nazev": "Těstovinový salát se slaninou, cibulí a sýrem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_G_E/0xQBS.jpeg?fl=cro,211,0,2666,2000%7Cres,722,,1%7Cwebp,75",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Slanina", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Sýr", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Olej", "mnozstvi": 7, "jednotka": "g"},
+      {"nazev": "Červená cibule", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "1. Uvaříme těstoviny. Slaninu nakrájíme, necháme škvařit, můžeme přidat nasekané vlašské ořechy.\n2. Teplé těstoviny přelijeme zálivkou z cibule, česneku, oleje a trochu citronové šťávy. Promícháme a rozdrobíme sýr."
+  },
+  {
+    "id": 58,
+    "nazev": "Zapečené cottage těstoviny",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_QK_s/qTAT/testoviny.jpeg?fl=cro,288,0,4608,3456%7Cres,722,,1%7Cwebp,75",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Šunka", "mnozstvi": 35, "jednotka": "g"},
+      {"nazev": "Kukuřice", "mnozstvi": 75, "jednotka": "g"},
+      {"nazev": "Cottage", "mnozstvi": 90, "jednotka": "g"},
+      {"nazev": "Mozzarella", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "1. Do formy dáme cottage, přidáme těstoviny, kukuřici, šunku, koření podle chuti a zalijeme vodou.\n2. Dáme péct do trouby na 200°. Promícháme, přidáme mozzarellu a dáme zapéct na 5-10 minut."
   }
 ]
