@@ -865,7 +865,7 @@
       {"nazev": "Cukr", "mnozstvi": 10, "jednotka": "g"},
       {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "ml"},
       {"nazev": "Bazalka", "mnozstvi": 3, "jednotka": "g"},
-      {"nazev": "Nudle", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Nudle", "mnozstvi": 60, "jednotka": "g"}
     ],
     "postup": "1. Rozpálíme olej a necháme zesklovatět cibuli. Přihodíme papriku a maso. Uvaříme nudle.\n2. Maso zasypeme cukrem, česnekem a trochou chilli. Opékáme, dokud cukr nezkaramelizuje.\n3. Zalijeme sójovkou a vmícháme nudle."
   },
