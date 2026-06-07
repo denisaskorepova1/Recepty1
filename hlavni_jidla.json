@@ -848,7 +848,7 @@
       {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
       {"nazev": "Mouka", "mnozstvi": 10, "jednotka": "g"},
       {"nazev": "Oregano", "mnozstvi": 3, "jednotka": "g"},
-      {"nazev": "Smetana na vaření", "mnozstvi": 45, "jednotka": "ml"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 45, "jednotka": "ml"}
     ],
     "postup": "1. Kuře orestujeme, zasypeme paprikou, pepřem a česnekem.\n2. Vmícháme mouku, zalijeme smetanou a trochou vody, přidáme sůl, oregano a vaříme.\n3. Přidáme těstoviny."
   },
