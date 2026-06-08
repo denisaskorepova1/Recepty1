@@ -958,7 +958,7 @@
       {"nazev": "Olivový olej", "mnozstvi": 10, "jednotka": "g"},
       {"nazev": "Salát", "mnozstvi": 50, "jednotka": "g"},
       {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"},
-      {"nazev": "Tahini", "mnozstvi": 5 "jednotka": "g"},
+      {"nazev": "Tahini", "mnozstvi": 5, "jednotka": "g"},
       {"nazev": "Pomerančový džus", "mnozstvi": 20, "jednotka": "ml"},
       {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
       {"nazev": "Mletá paprika", "mnozstvi": 3, "jednotka": "g"}
@@ -1065,5 +1065,83 @@
       {"nazev": "Arašídy", "mnozstvi": 15, "jednotka": "g"}
     ],
     "postup": "1. Osmahneme cibuli. Přidáme česnek, kuřecí prsa, sůl, pepř.\n2. Chvíli mícháme a přikryjeme pokličkou kde cca 10 minut dusíme.\n3. Přidáme máslo, sójovou omáčku, koření, arašídy. Promícháme, podlejeme trochou vody a vaříme cca 5 minut."
+  },
+  {
+    "id": 69,
+    "nazev": "Bramborové placky (2 porce)",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://gymbeam.cz/blog/wp-content/uploads/fly-images/565018/Navrh-bez-nazvu-2024-04-24T100512.543-437x279.png",
+    "suroviny": [
+      {"nazev": "Brambory", "mnozstvi": 400, "jednotka": "g"},
+      {"nazev": "Hladká mouka", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Česnek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "1. Brambory nastrouháme na hrubo. Přisypeme sůl a necháme 15 minut.\n2. Vymačkáme vodu.\n3. Nakrájíme cibuli a nastrouháme parmezán, smícháme se vším.\n4. Pečeme na 190° cca 25-30 minut."
+  },
+  {
+    "id": 70,
+    "nazev": "Zelná rýže na indický způsob",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/1066/zelna-ryze-na-indicky-zpusob-cs-VgcJ5.jpg",
+    "suroviny": [
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Hlávkové zelí", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Kurkuma", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Arašídy", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Koriandr", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Kari", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. V pánvi orestujeme cibuli, přidáme česnek, mrkev, zelí, koření, arašídy. Restujeme.\n2. Přidáme rýži a provaříme."
+  },
+  {
+    "id": 71
+    "nazev": "Česnekový flatbread (2 porce)",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/1023/jednoduchy-cesnekovy-flatbread-bezlepkovy-cs-acuuv.jpg",
+    "suroviny": [
+      {"nazev": "Hladká mouka", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Smetanový sýr", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Strouhaná mozzarella", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "1. Smícháme mouku s práškem do pečiva a solí. Přidáme vejce, vodu, mozzarellu, sýr, promícháme.\n2. Navrstvíme na pečící papír, posypeme česnekem, parmezánem kořením a pečeme 15 minut na 200°."
+  },
+  {
+    "id": 72,
+    "nazev": "Fitness langoše",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/591/fitness-langose-pecene-cs-tQfTD.jpg",
+    "suroviny": [
+      {"nazev": "Hladká mouka", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Olivový olej", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Všechny suroviny smícháme, tvarujeme langoše na pečící papír.\n2. Potřeme trochou olivového oleje, pečeme 10 minut při 200 stupních."
+  },
+  {
+    "id": 73,
+    "nazev": "Pečené bramborové placky s kyselým zelím",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/795/pecene-bramborove-placky-s-kyselym-zelim-cs-wZZ09.jpg",
+    "suroviny": [
+      {"nazev": "Brambory", "mnozstvi": 190, "jednotka": "g"},
+      {"nazev": "Kysané zelí", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Storuhaná mozzarella", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Hladká mouka", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Kmín mletý", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Brambory ve slupce uvaříme doměkka. Necháme vychladnout, oloupeme a rozmačkáme.\n2. Přidáme k nim zelí bez nálevu a všechny zbylé suroviny.~n3. Tvarujeme placky, dáme na plech.\n4. Pečeme 30-35 minut na 190°."
   }
 ]
