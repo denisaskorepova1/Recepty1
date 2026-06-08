@@ -897,5 +897,173 @@
       {"nazev": "Mozzarella", "mnozstvi": 30, "jednotka": "g"}
     ],
     "postup": "1. Do formy dáme cottage, přidáme těstoviny, kukuřici, šunku, koření podle chuti a zalijeme vodou.\n2. Dáme péct do trouby na 200°. Promícháme, přidáme mozzarellu a dáme zapéct na 5-10 minut."
+  },
+  {
+    "id": 59,
+    "nazev": "Těstoviny s omáčkou z pečených paprik",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://assets-eu-01.kc-usercontent.com/b6e22025-d465-0168-dffc-cd032357e4f0/0eb657e8-baae-4193-abd5-3c53c230548b/testoviny_burrata_th_kveten_influ.jpg?w=1920&fm=webp&lossless=0&q=80&dpr=1",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Paprika", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Máslo", "mnozstvi": 0.25, "jednotka": "lžíce"},
+      {"nazev": "Česnek", "mnozstvi": 0.5, "jednotka": "stroužek"},
+      {"nazev": "Citron", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Smetana na vaření", "mnozstvi": 30, "jednotka": "ml"}
+    ],
+    "postup": "1. Papriky rozpůlíme, vyndáme jadřinec a vyskládáme na pečící papír. Pečeme cca 30 minut na 220°.\n2. Přendáme do uzavíratelné nádoby a necháme cca 30 minut zapaři.\n3. Uvaříme těstoviny, papriky oloupeme, se solí a pepřem rozmixujeme.\n4. Na másle orestujeme česnek, přidáme papriku, smetanu, citronovou šťávu a vmícháme sýr."
+  },
+  {
+    "id": 60,
+    "nazev": "Smažené nudle s vepřovým masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_E_F/06JCf.jpeg?fl=cro,0,0,2250,1688%7Cres,722,,1%7Cwebp,75",
+    "suroviny": [
+      {"nazev": "Nudle", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Vepřové maso - kýta, krkovice, plec", "mnozstvi": 75, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Jarní cibulka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "ml"},
+      {"nazev": "Rýžové víno", "mnozstvi": 10, "jednotka": "ml"},
+      {"nazev": "Ústřicová omáčka", "mnozstvi": 10, "jednotka": "ml"},
+      {"nazev": "Sezamový olej", "mnozstvi": 10, "jednotka": "ml"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Uvařímne nudle, maso nakrájíme na nudličky a orestujeme.\n2. Mrkev a cibulku nakrájíme.\n3. Smícháme sojovku, rýžové víno, ústřicovou omáčku, olej, utřený česneka a dáme vše do jedné pánve."
+  },
+  {
+    "id": 61,
+    "nazev": "Airfryer smashed potatoes",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://static.toprecepty.cz/fotky/clanky_hlavni/image-user94125-17392625595hjse-860-484-wide.png",
+    "suroviny": [
+      {"nazev": "Brambory", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Česnek", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Mletá paprika", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Petržel", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Olej", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Nejdříve uvaříme brambory, necháme je vychladnout.\n2. Předehřejeme fritézu a dáme olej. \n3. Brambory rozmáčkeneme a posypeme kořením.\n4. Fritujeme na 200° cca 12-15 minut, dokud nejsou křupavé."
+  },
+  {
+    "id": 62,
+    "nazev": "Salát z batátů a cizrny",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/barevny-zimni-salat-ktery-zasyti?v=1607429651",
+    "suroviny": [
+      {"nazev": "Batáty", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Cizrna v plechovce", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Olivový olej", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Salát", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Tahini", "mnozstvi": 5 "jednotka": "g"},
+      {"nazev": "Pomerančový džus", "mnozstvi": 20, "jednotka": "ml"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Mletá paprika", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Batáty a cizrnu dáme do fritézy. Postříkáme lehce olejem a fritujeme 15-20 minut na 200°.\n2. Všechny suroviny na dresing (olivový olej, tahini, pomerančový džus, koření) smícháme.\n3. Dáme vše do misky a podáváme."
+  },
+  {
+    "id": 63,
+    "nazev": "Cheesburger bowl",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://1884403144.rsc.cdn77.org/foto/big-mac-salat-burger/Zml0LWluLzEwMzB4OTk5OS9maWx0ZXJzOnF1YWxpdHkoODUpOm5vX3Vwc2NhbGUoKS9pbWc/9725357.jpg?v=0&st=PKdeAXeAuLFbwmP1ltrevJrzaBtMc5QgjMEXjTvsLck&ts=1600812000&e=0",
+    "suroviny": [
+      {"nazev": "Bílý jogurt", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Kečup", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Hořčice", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Citronová šťáva", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mletá paprika", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Hovězí mleté", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Římský salát", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Rajče", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Kyselé okurky", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sýr", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "1. Nejdříve připravíme omáčku - jogurt, kečup, hořčici, citronovou šťávu, mletou papriku, česnek, sůl a pepř smícháme.\n2. Na pánvi osmahneme maso s kořením.\n3. Vše smícháme do misky."
+  },
+  {
+    "id": 64,
+    "nazev": "Těstoviny s omáčkou z kokosového mléka",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://puravita.cz/img/post/12-62023627893b1.jpg",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 1, "jednotka": "stroužek"},
+      {"nazev": "Olivový olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Passata", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Kokosové mléko", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Uvaříme těstoviny. Pánvičku zahřejeme, opečeme na oleji česnek, dokud není zlatý.\n2. Snížíme plamen a přidáme ingredience na omáčku + trochu vody z těstovin. Vaříme cca 15 minut. Smícháme s těstovinama."
+  },
+  {
+    "id": 65,
+    "nazev": "Chicken pesto salad",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/b721b104-16f4-41bf-ac4d-02d247da8d64?v=1778442074",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rukola", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Rajče", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Červená cibule", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Pistácie", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Pesto", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Citronová šťáva", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Uvaříme těstoviny. Smícháme pesto, citronovou šťávu a koření v misce.\n2. Vše smícháme a podáváme."
+  },
+  {
+    "id": 66,
+    "nazev": "Kuřecí řízky s jogurtem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.administrace.tv/2025/06/08/hd_169/b9e72f11b17436dff0fcbb48ce21301c.png",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Brambory", "mnozstvi": 180, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Oregano", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Brambory nakrájíme na kolečka, okořeníme a dáme do zapékací misky.\n2. Cibuli nakrájíme na měsíčky a nasypeme na brambory.\n3. Následně dáme maso a zalijeme jogurtem s kořením.\n4. Pečeme 180° cca 40 minut."
+  },
+  {
+    "id": 67,
+    "nazev": "Kuřecí karbanátky s mrkví",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.nejrecept.cz/upload/32768499_055cf74872f3d5_full.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 0.5, "jednotka": "kus"},
+      {"nazev": "Mletá paprika", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Maso umeleme společně s cibulí a mrkví.\n2. Přidáme vločky, vajíčka, sůl, olej, pepř, papriku a promícháme.\n3. Vytvarujeme karbanátky na plech a pečeme cca 30 minut na 200°."
+  },
+  {
+    "id": 68,
+    "nazev": "Krémové kuře s arašídovým máslem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/962/kremove-kureci-sote-s-arasidovym-maslem-cs-peARS.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Arašídy", "mnozstvi": 15, "jednotka": "g"}
+    ],
+    "postup": "1. Osmahneme cibuli. Přidáme česnek, kuřecí prsa, sůl, pepř.\n2. Chvíli mícháme a přikryjeme pokličkou kde cca 10 minut dusíme.\n3. Přidáme máslo, sójovou omáčku, koření, arašídy. Promícháme, podlejeme trochou vody a vaříme cca 5 minut."
   }
 ]
