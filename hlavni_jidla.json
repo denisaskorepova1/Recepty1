@@ -1272,5 +1272,79 @@
       {"nazev": "Pepř", "mnozstvi": 3, "jednotka": "g"}
     ],
     "postup": "1. Quinou zalijeme vodou, osolíme a vaříme.\n2. V misce smícháme zbylé ingredience, přidáme quinou."
+  },
+  {
+    "id": 82,
+    "nazev": "Těstoviny na sladko",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.toprecepty.cz/recept/7469-testoviny-s-cuketou-na-sladko/fotografie-21134/",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Skořice", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cukr", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kokos mletý", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Jablko", "mnozstvi": 50, "jednotka": "g"}
+    ],
+    "postup": "1. Těstoviny uvaříme.\n2. Smícháme s cukrem, skořicí a kokosem.\n3. Jablko osmahneme na pánvi a podáváme k těstovinám."
+  },
+  {
+    "id": 83,
+    "nazev": "Špagety s fetou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://d50-a.sdn.cz/d_50/c_img_gZ_Y/eszBP/pecena-feta-rajcata-testoviny.jpeg?fl=cro,0,0,4501,3376%7Cres,722,,1%7Cwebp,75",
+    "suroviny": [
+      {"nazev": "Špagety", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Cherry rajčata", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Olivový olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Krájená rajčata v plechovce", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Feta", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Bazalka", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Předehřejeme troubu na 200°.\n2. Špagety uvaříme. Cibuli nakrájíme, rajčata rozpůlíme a vložíme do zapékací misky spolu s olejem, rajčaty v plechovce, solí, pepřem. Promícháme.\n3. Dáme sýr vcelku, pečeme cca 35-40 minut."
+  },
+  {
+    "id": 84,
+    "nazev": "Mrkvové karbanátky",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://1gr.cz/fotky/idnes/23/102/r7/JVE86dc6c_9517_100300781.jpg",
+    "suroviny": [
+      {"nazev": "Mrkev", "mnozstvi": 200, "jednotka": "g"},
+      {"nazev": "Špaldová mouka", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Chilli", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Všechny ingredience na karbanátky smícháme, aby se vše spojilo.\n2. Vytvoříme stejně velké placičky a opečeme dozlatova."
+  },
+  {
+    "id": 85,
+    "nazev": "Turbo večeře s mozzarellou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/a59e93b0-efbf-4dd7-9cc2-23aefb0b0354?v=1759059195",
+    "suroviny": [
+      {"nazev": "Mozzarella", "mnozstvi": 125, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 2, "jednotka": "kusy"},
+      {"nazev": "Rajče", "mnozstvi": 50, "jednotka": "g"}
+    ],
+    "postup": "1. Mozzarellu nakrájíme na menší kousky a smícháme s vejci, kořením a rajčaty.\n2. Pečeme v troubě dozlatova na 200° cca 40 minut."
+  },
+  {
+    "id": 86,
+    "nazev": "Zapečené špagety s kuřecím masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://images.labuznik.cz/i/images/1000/169/14063-dsc00003.jpg?3",
+    "suroviny": [
+      {"nazev": "Špagety", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 80, "jednotka": "ml"},
+      {"nazev": "Mozzarella", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Žervé", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Nastrouhaný eidam", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Italské bylinky", "mnozstvi": 3, "jednotka": "g"},
+    ],
+    "postup": "1. Uvaříme špagety. Maso nakrájíme, osolíme, opepříme, přidáme česnek a bylinky. Orestujeme a dáme na stranu.\n2. Do stejné pánve nalijeme mléko, osolíme, opepříme, česnek, bylinky, mícháme. Přidáme mozzarellu a žervé.\n3. Přidáme maso, špagety, promícháme. Vložíme do pekáčku a pečeme cca 40 minut."
   }
 ]
