@@ -1228,5 +1228,49 @@
       {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"}
     ],
     "postup": "1. Na dno zapékací formy nasypeme rýži, kterou lehce osolíme. Zalijeme vývarem.\n2. Zbylé ingredience smícháme a navrstvíme na rýži.\n3. Pečeme cca 40-45 minut při 190°, dokud je rýže upečená doměkka."
+  },
+  {
+    "id": 79,
+    "nazev": "Hnědá rýže s tuňákem a kukuřicí",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/237/hneda-ryze-s-tunakem-a-kukurici-cs-YrqLR.jpg",
+    "suroviny": [
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Tuňák v konzervě", "mnozstvi": 80, "jednotka": "g"},
+      {"nazev": "Kukuřice v plechovce", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Bazalka", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. V menším hrnci rozpustíme olej a osmahneme cibuli. Do hrnce přidáme rýži, zalijeme vodou, osolíme, opepříme a necháme vařit, dokud rýže nevsákne všechnu vodu.\n2. Smícháme s ostatními věcmi."
+  },
+  {
+    "id": 80,
+    "nazev": "Chilli kuřecí prsa",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/415/chilli-kureci-prsa-cs-FAPWu.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Vinný ocet", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Rajčatový protlak", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Chilli", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Maso nakrájíme, vložíme do pánve, promícháme, přidáme protlak, sójovku, koření a podlijeme zhruba 50 ml vody.\n2. Dusíme cca 20 minut.\n3. Nakonec přidáme vinný ocet a případě dochutíme kořením."
+  },
+  {
+    "id": 81,
+    "nazev": "Caprese salát s tuňákem a quinoou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/956/caprese-salat-s-quinoou-a-tunakem-cs-aDxQO.jpg",
+    "suroviny": [
+      {"nazev": "Quinoa", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Rajčata", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Mini mozzarella", "mnozstvi": 20, "jednotka": "g"},
+      {"nazev": "Tuňák", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Balsamico", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Pepř", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Quinou zalijeme vodou, osolíme a vaříme.\n2. V misce smícháme zbylé ingredience, přidáme quinou."
   }
 ]
