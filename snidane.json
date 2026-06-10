@@ -1142,5 +1142,22 @@
       {"nazev": "Kakao", "mnozstvi": 5, "jednotka": "g"}
     ],
     "postup": "1. Všechny ingredience smíchat, případně dolít vodou a péct na 180° dozlatova."
+  },
+  {
+    "id": 82,
+    "nazev": "Borůvkové baked oats",
+    "kategorie": "Snídaně",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-content/content-desktop/webp/dd97ee72-7e42-4a89-b32a-ae12f762e209?v=1771711235",
+    "suroviny": [
+      {"nazev": "Banán", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Ovesné vločky", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Protein", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kypřící prášek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Chia semínka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 40, "jednotka": "ml"},
+      {"nazev": "Borůvky", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Bílý jogurt", "mnozstvi": 30, "jednotka": "g"}
+    ],
+    "postup": "1. Všechny ingredience kromě jogurtu míchat, případně dolít vodou. Navrch dáme jogurt a dámme péct na 180° dozlatova."
   }
 ]
