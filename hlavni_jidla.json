@@ -1346,5 +1346,68 @@
       {"nazev": "Italské bylinky", "mnozstvi": 3, "jednotka": "g"}
     ],
     "postup": "1. Uvaříme špagety. Maso nakrájíme, osolíme, opepříme, přidáme česnek a bylinky. Orestujeme a dáme na stranu.\n2. Do stejné pánve nalijeme mléko, osolíme, opepříme, česnek, bylinky, mícháme. Přidáme mozzarellu a žervé.\n3. Přidáme maso, špagety, promícháme. Vložíme do pekáčku a pečeme cca 40 minut."
+  },
+  {
+    "id": 87,
+    "nazev": "Šunkofleky",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://static.albert.cz/medias/sys_master/recipes/h4b/h71/9226646454302.jpg?buildNumber=7224a46dd6e69c0d2357dc801e1625e3358ae6f91d762dca5e4969382ef1cfa5&imwidth=500",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Šunka", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Mozzarella", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Mléko", "mnozstvi": 30, "jednotka": "ml"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"}
+    ],
+    "postup": "1. Těstoviny uvaříme. Vše smícháme dohromady, osolíme, opepříme. Pečeme cca 40 minut."
+  },
+  {
+    "id": 88,
+    "nazev": "Tagliatele s kuřecím ragú",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://static.toprecepty.cz/fotky/recepty/0132/kureci-ragu-s-testovinami-199546-1920-1080-nwo.jpg",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Mleté kuřecí maso", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 50, "jednotka": "g"},
+      {"nazev": "Krájená rajčata v plechovce", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 0, "jednotka": ""}
+    ],
+    "postup": "1. Uvaříme těstoviny. Scedíme.\n2. Na pánvi opečeme cibuli, mrkev. Přidáme maso, vaříme dozlatova. Dochutíme solí, pepřem, kmínem, česnekem. Přidáme rajčata a necháme vařit.\n3. Na závěr vmícháme sýr."
+  },
+  {
+    "id": 89,
+    "nazev": "Tortilla s mletým masem a zelím",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://vareni-production-cdn.xsd.cz/obrazky/recepty/6209/fb94f51e-c697-487d-b0db-ba63f9e2698a-velky.jpg",
+    "suroviny": [
+      {"nazev": "Tortilla", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Mleté kuřecí maso", "mnozstvi": 70, "jednotka": "g"},
+      {"nazev": "Kečup", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Bílé zelí", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Sýr", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Mozzarella", "mnozstvi": 20, "jednotka": "g"}
+    ],
+    "postup": "1. Zelí a cibuli nakrájíme, mozzarellu a sýr také.\n2. Maso dáme na pánev, osolíme, opepříme a mícháme.\n3. Po zatáhnutí přidáme kečup a česnek. Tortillu ohřejeme a skládáme dovnitř."
+  },
+  {
+    "id": 90,
+    "nazev": "Krůtí maso na medu s citronem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://vareni-production-cdn.xsd.cz/obrazky/recepty/7979/86f78ea1-410d-4010-bc70-c171b3f0ed02-velky.jpg",
+    "suroviny": [
+      {"nazev": "Krůtí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Paprika mletá", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Šťáva z citronu", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Paprika", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 10, "jednotka": "g"}
+    ],
+    "postup": "1. Nakrájíme si maso, dáme vařit rýži.\n2. Maso dáme do misky, přidáme koření, sójovku. Osmahneme, přidáme med.\n3. Maso sundáme a na pánev dáme cibuli a papriku. Orestujeme, přidáme rýži, promícháme a restujeme."
   }
 ]
