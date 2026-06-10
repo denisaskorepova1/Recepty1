@@ -1101,7 +1101,7 @@
     "postup": "1. V pánvi orestujeme cibuli, přidáme česnek, mrkev, zelí, koření, arašídy. Restujeme.\n2. Přidáme rýži a provaříme."
   },
   {
-    "id": 71
+    "id": 71,
     "nazev": "Česnekový flatbread (2 porce)",
     "kategorie": "Hlavní jídlo",
     "obrazek": "https://www.zdravefitrecepty.cz/static/r/1023/jednoduchy-cesnekovy-flatbread-bezlepkovy-cs-acuuv.jpg",
@@ -1143,5 +1143,90 @@
       {"nazev": "Kmín mletý", "mnozstvi": 3, "jednotka": "g"}
     ],
     "postup": "1. Brambory ve slupce uvaříme doměkka. Necháme vychladnout, oloupeme a rozmačkáme.\n2. Přidáme k nim zelí bez nálevu a všechny zbylé suroviny.~n3. Tvarujeme placky, dáme na plech.\n4. Pečeme 30-35 minut na 190°."
+  },
+  {
+    "id": 74,
+    "nazev": "Kuřecí prsa v pomerančové omáčce s quinoou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/553/kureci-prsa-v-pomerancove-omacce-s-quinoou-cs-eX7mW.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Kůra z pomeranče", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Vejce", "mnozstvi": 1, "jednotka": "kus"},
+      {"nazev": "Strouhanka", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Zeleninový bujón", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Šťáva z pomeranče", "mnozstvi": 50, "jednotka": "ml"},
+      {"nazev": "Med", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Škrob", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Quinoa", "mnozstvi": 50, "jednotka": "g"}
+    ],
+    "postup": "1. Pomeranče omyjeme a vysušíme. Maso nakrájíme na nugetky a smícháme je se sójovkou, kůrou z pomeranče, česnekem, solí, pepřem. Necháme odležet alespoň 2 hodiny.\n2. Maso namočíme do rozmíchaných vajec a obalíme ve strouhance.\n3. Vyskládáme na plech a pečeme 30-35 minut na 190°, v polovině otočíme.\n4. Do pánve dáme vývar s pomerančovou šťávou, necháme přejít varem a zamícháme med. Nakonec vmícháme škrob a povaříme."
+  },
+  {
+    "id": 75,
+    "nazev": "Rýžové nudle s kuřecím masem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://i0.wp.com/lateta.cz/wp-content/uploads/2021/03/347C544E-7D83-422C-8CDB-FC601CA9D44B-scaled.jpeg?resize=768%2C1024&ssl=1",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rýžové nudle", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Med", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Sezamová semínka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Jarní cibulka", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Uvaříme nudle ve vroucí vodě.\n2. V menším hrnci smícháme arašídové máslo se sójovkou, medem, kořením, solí a česnekem.\n3. Omáčku necháme přejít varem a sundáme z plotýnky. Pokud je hustá, přilijeme trochu vody.\n4. Osmažené maso přidáme k nudlím a omáčce."
+  },
+  {
+    "id": 76,
+    "nazev": "Kuřecí prsa na hořčici s kuskusem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/538/kureci-prsa-na-horcici-s-cuketou-medvedim-cesnekem-a-kuskusem-cs-xT7sZ.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Medvědí česnek", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Hořčice", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Mletá paprika", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Kuskus", "mnozstvi": 60, "jednotka": "g"}
+    ],
+    "postup": "1. Kuskus zalijeme dvojnásobným množstvím vody, osolíme, dochutíme česnekem a vaříme na mírném plameni cca 15 minut, dokud nevsákne všechnu vodu.\n2. Ve větším hrnci na rozehřátém oleji osmahneme najemno nakrájenou cibuli, přidáme maso, zamícháme, ochutíme kořením, hořčicí a sójovou omářkou a dusíme cca 15 minut.\n3. Následně maso osolíme a přidáme medvědí česnek. Vaříme ještě cca 3-5 minut."
+  },
+  {
+    "id": 77,
+    "nazev": "Kuřecí stehna s mrkví a hráškem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/300/kureci-stehna-s-mrkvi-a-hraskem-cs-tSjE8.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí stehna", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Mrkev", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Hrášek", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Oregano", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. V hlubším hrnci rozehřejeme lžíci oleje a osmahneme najemno nakrájenou cibuli.\n2. Přidáme umytá stehna a opečeme je na cibuli.\n3. Maso zalijeme 3 hrníčky vody, osolíme, opepříme.\n4. Do hrnce přidáme najemno nastrouhanou mrkev a hrášek, a za občasného míchání dusíme pod pokličkou zhruba 25 minut."
+  },
+  {
+    "id": 78,
+    "nazev": "Zapečené kuřecí maso se špenátem, rýží a sýrem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.zdravefitrecepty.cz/static/r/780/zapecene-kureci-maso-se-spenatem-ryzi-a-syrem-cs-cHdcv.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Strouhaná mozzarella", "mnozstvi": 25, "jednotka": "g"},
+      {"nazev": "Zeleninový vývar", "mnozstvi": 100, "jednotka": "ml"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Jarní cibulka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. Na dno zapékací formy nasypeme rýži, kterou lehce osolíme. Zalijeme vývarem.\n2. Zbylé ingredience smícháme a navrstvíme na rýži.\n3. Pečeme cca 40-45 minut při 190°, dokud je rýže upečená doměkka."
   }
 ]
