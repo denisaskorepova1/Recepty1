@@ -1409,5 +1409,85 @@
       {"nazev": "Med", "mnozstvi": 10, "jednotka": "g"}
     ],
     "postup": "1. Nakrájíme si maso, dáme vařit rýži.\n2. Maso dáme do misky, přidáme koření, sójovku. Osmahneme, přidáme med.\n3. Maso sundáme a na pánev dáme cibuli a papriku. Orestujeme, přidáme rýži, promícháme a restujeme."
+  },
+  {
+    "id": 91,
+    "nazev": "Citronové krůtí maso s rýží",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.myshoptet.com/usr/www.sixfitness-shop.cz/user/documents/upload/mceclip0-62.png?1769720921",
+    "suroviny": [
+      {"nazev": "Krůtí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rýžová mouka", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sójová omáčka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Citronová šťáva a kůra", "mnozstvi": 0, "jednotka": ""},
+      {"nazev": "Mrkev", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Paprika", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Jarní cibulka", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Kuřecí vývar", "mnozstvi": 70, "jednotka": "ml"},
+      {"nazev": "Rýže", "mnozstvi": 60, "jednotka": "g"}
+    ],
+    "postup": "1. Rýžovou mouku smícháme se sójovkou a citronovou šťávou.\n2. Na pánvi rozehřejeme olej, přidáme nakrájené maso, papriku, mrkev a opékáme 2-3 minuty.\n3. Do pánve přilijeme směs, kuřecí vývar (vodu) a jarní cibulku a přivedeme k varu.\n4. Snížíme plamen a vaříme za stálého míchání, dokud omáčka nezhoustne a kuře (krůta) není propečené. Podáváme s rýží posypané citronovou kůrou."
+  },
+  {
+    "id": 92,
+    "nazev": "Tuna Pomodoro",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.ourcookingjourney.com/uploads/1/2/4/7/124776650/published/pasta-al-tonno-tuna-pasta-our-cooking-journey-2.png?1752606224",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Tuňák ve vlastní šťávě", "mnozstvi": 150, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Kečup", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Sýr", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Dáme vařit těstoviny. Na pánvi na oleji zpěníme nadrobno nakrájenou cibuli.\n2. Vmícháme tuňáka, přidáme kečup, osolíme a opepříme.\n3. Na závěr do směsi vmícháme nastrouhaný sýr a smícháme s uvařenými těstovinami."
+  },
+  {
+    "id": 93,
+    "nazev": "Kuřecí prsa plněná sýrovým špenátem",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.administrace.tv/2022/08/07/hd_169/9b38e2876b176a964c885c85ab2aa75f.jpg",
+    "suroviny": [
+      {"nazev": "Kuřecí prso", "mnozstvi": 1, "jednotka": "ks"},
+      {"nazev": "Žervé", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Strouhaná mozzarella", "mnozstvi": 30, "jednotka": "g"},
+      {"nazev": "Špenát", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"},
+      {"nazev": "Mletá sladká paprika", "mnozstvi": 3, "jednotka": "g"}
+    ],
+    "postup": "1. V misce rozmačkáme žervé s prolisovaným česnekem, solí a pepřem. Přimícháme nastrouhanou mozzarellu a špenát.\n2. Kuřecí prsa podélně rozřízneme (vytvoříme kapsu), naplníme sýrovou směsí a zajistíme párátky. Povrch osolíme, opepříme a zaprášíme sladkou paprikou.\n3. Na pánvi opečeme maso z každé strany cca 3 minuty, následně vložíme do pekáče a pečeme v troubě vyhřáté na 220 °C přibližně 20 minut."
+  },
+  {
+    "id": 94,
+    "nazev": "Kuřecí s arašídovou omáčkou",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://cdn.vilgain.com/image/recipe-cover/cover-desktop/webp/1549393652-a-2307.jpg?v=1586538707",
+    "suroviny": [
+      {"nazev": "Kuřecí prsa", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Rýžové nudle", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Arašídové máslo", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Arašídy (na posyp)", "mnozstvi": 7, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Kuřecí maso nakrájíme na menší kostičky, osolíme a opepříme. Mezitím dáme vařit rýžové nudle podle návodu.\n2. Na pánvi osmahneme maso, přidáme lžíci arašídového másla a chvíli společně opékáme.\n3. Přilijeme trochu vody podle potřeby, abychom vytvořili omáčku, a přisypeme arašídy. Promícháme a podáváme s nudlemi."
+  },
+  {
+    "id": 95,
+    "nazev": "Mezze Maniche",
+    "kategorie": "Hlavní jídlo",
+    "obrazek": "https://www.lafabbricadellapastadigragnano.com/wp-content/uploads/2024/11/mezze-maniche-rigate-amatriciana.jpg",
+    "suroviny": [
+      {"nazev": "Těstoviny", "mnozstvi": 60, "jednotka": "g"},
+      {"nazev": "Krájená loupaná rajčata", "mnozstvi": 100, "jednotka": "g"},
+      {"nazev": "Mozzarella", "mnozstvi": 40, "jednotka": "g"},
+      {"nazev": "Cibule", "mnozstvi": 15, "jednotka": "g"},
+      {"nazev": "Česnek", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Parmezán", "mnozstvi": 10, "jednotka": "g"},
+      {"nazev": "Čerstvá bazalka", "mnozstvi": 3, "jednotka": "g"},
+      {"nazev": "Olej", "mnozstvi": 5, "jednotka": "g"}
+    ],
+    "postup": "1. Uvaříme těstoviny al dente. Na pánvi na troše oleji zpěníme cibulku s česnekem.\n2. Přidáme krájená rajčata, osolíme, opepříme a za stálého míchání vaříme asi 5 minut.\n3. Do teplé omáčky vmícháme uvařené těstoviny, nakrájenou mozzarellu, nastrouhaný sýr (parmezán) a čerstvou bazalku, dokud se sýr lehce nerozpustí."
   }
 ]
